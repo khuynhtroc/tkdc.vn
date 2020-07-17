@@ -1,48 +1,66 @@
-<div align="center">
-	<h1>Parsa-jekyll-blog-theme</h1>
-	<p>Parsa jekyll Creative blog Template ported from <a href="https://themefisher.com">Themefisher's</a> <a href="https://themefisher.com/products/parsa-personal-blog-template/"> Parsa HTML Template</a>    </p>
-	<a href="http://demo.themefisher.com/parsa" >Live Preview</a>
-	<p>More free Bootstrap blog templates from <a href="https://themefisher.com/bootstrap-blog-templates/">Here</a>
-</div>
+# (WIP) Future Imperfect - Jekyll Theme
 
-## Setup
+A Jekyll version of the "Future Imperfect" theme by [HTML5 UP](https://html5up.net/).
 
-To start your project, fork this repository
-After forking the repo, your site will be live immediately on your personal Github Pages account, e.g. `https://yourusername.github.io/your-repo-name/`.
+![Future Imperfect Theme](images/future-imperfect.jpg "Future Imperfect Theme")
 
-Make sure GitHub Pages is enabled for your repo. It might take some time for the site to propagate entirely.
+# How to Use
 
-## Customize
+For those unfamiliar with how Jekyll works, check out [https://jekyllrb.com/](https://jekyllrb.com/) for all the details, 
+or read up on just the basics of [front matter](https://jekyllrb.com/docs/frontmatter/), [writing posts](https://jekyllrb.com/docs/posts/), 
+and [creating pages](https://jekyllrb.com/docs/pages/).
 
-Things you can customise in `_data/settings.yml` (no HTML/CSS):
-- Theme General Settings ( name, logo, email, phone, address )
-- Hero Section
-- About Section
-- Team Section
-- Skills Section
-- Exprerience Section
-- Education Section
-- Services Section
-- Portfolio Section
-- Testimonials Section
-- Client Slider Section
-- Contact Section
+- **GitLab**: Simply fork this repository and start editing the `_config.yml` file!  
+- **GitHub**: Fork this reposity and create a branch named `gh-pages`, then start editing the `_config.yml` file!
 
-## Deployment
+# Issues
 
-To run the theme locally, navigate to the theme directory and run `bundle install` to install the dependencies, then run `jekyll serve` or `bundle exec jekyll serve` to start the Jekyll server.
-I would recommend checking the [Deployment Methods](https://jekyllrb.com/docs/deployment-methods/) page on Jekyll website.
+If you would like to report a bug, ask a question, request a feature, feel free to do so on [the GitLab repository](https://gitlab.com/andrewbanchich/future-imperfect-jekyll-theme) and I will be more than happy to help!
 
-## Reporting Issues
+Alternatively, you can open an issue via email by emailing [incoming+andrewbanchich/future-imperfect-jekyll-theme@incoming.gitlab.com](mailto:incoming+andrewbanchich/future-imperfect-jekyll-theme@incoming.gitlab.com).
 
-We use GitHub Issues as the official bug tracker for the **Parsa Theme**. Please Search [existing issues](https://github.com/themefisher/parsa-jekyll-blog-theme/issues). It’s possible someone has already reported the same problem.
-If your problem or idea is not addressed yet, [open a new issue](https://github.com/themefisher/parsa-jekyll-blog-theme/issues/new)
+The GitHub repository is simply a mirror of the GitLab repository.
 
-## Technical Support or Questions
+# Credits
 
-If you have questions or need help integrating the product please [contact us](mailto:themefisher@gmail.com) instead of opening an issue.
+Original README from HTML5 UP:
 
-## Licensing
+```
+Future Imperfect by HTML5 UP
+html5up.net | @ajlkn
+Free for personal and commercial use under the CCA 3.0 license (html5up.net/license)
 
-- Copyright 2019 Themefisher (https://themefisher.com/)
-- Jekyll version is released under MIT License.
+
+It's been a long time coming, but I've finally gotten around to creating a brand new
+blog-style template (and the first since Striped, which came out waaaaay back in 2013).
+Anyway, Future Imperfect features a clean, expansive layout, a toggleable search box,
+and -- because pretty much all modern browsers can use it now -- a whole lot of flexbox
+action. Enjoy it :)
+
+Demo images* courtesy of Unsplash, a radtastic collection of CC0 (public domain) images
+you can use for pretty much whatever.
+
+(* = not included)
+
+AJ
+aj@lkn.io | @ajlkn
+
+
+Credits:
+
+	Demo Images:
+		Unsplash (unsplash.com)
+
+	Icons:
+		Font Awesome (fortawesome.github.com/Font-Awesome)
+
+	Other:
+		jQuery (jquery.com)
+		html5shiv.js (@afarkas @jdalton @jon_neal @rem)
+		Misc. Sass functions (@HugoGiraudel)
+		Respond.js (j.mp/respondjs)
+		Skel (skel.io)
+
+```
+
+Repository [Jekyll logo](https://github.com/jekyll/brand) icon licensed under a [Creative Commons Attribution 4.0 International License](http://choosealicense.com/licenses/cc-by-4.0/).
