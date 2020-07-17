@@ -4,8 +4,8 @@
 title: Parsa | Portfolio Jekyll Template
 logo: logo.png # You can add own logo
 description: # Add your awesome description
-baseurl: "https://khuynhtroc.github.io/tkdc.vn/" # The subpath of your site, e.g. /blog
-url: "https://khuynhtroc.github.io/tkdc.vn/" # The base hostname & protocol for your site, e.g. http://example.com
+baseurl: "https://khuynhtroc.github.io/tkdc.vn" # The subpath of your site, e.g. /blog
+url: "https://khuynhtroc.github.io/tkdc.vn" # The base hostname & protocol for your site, e.g. http://example.com
 
 # Preloader
 preloader: true # To disable preloader change value to false
