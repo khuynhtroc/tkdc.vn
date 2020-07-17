@@ -1,115 +1,38 @@
-#-------------------------------
-# General Site Settings
+# ----------- CONFIGURABLE START -----------
+title:            "LiberXue|FullStack|独立开发者|jekyll blog|GitHub blog"
+description:      "Full Stack独立开发者|欢迎来到 LiberXue「角落」侃侃理想、谈谈人生、敲敲代码。"
+url:              https://khuynhtroc.github.io/tkdc.vn # 域名
+signoff:          "LiberXue" # Your name
+facebook_appid:   #liberxue
+google_analytics: UA-101222464-1
+share:            true 
+# 分页
+paginate: 15
+paginate_path: "liberxuepage:num"
+gems: [jekyll-paginate]
+links:
+  - name:         首页
+    url:          /
+    external:     false
+  - name:         书籍
+    url:          /book
+    external:     false
+  - name:         旅游
+    url:          /road
+    external:     false
+  - name:         归档
+    url:          /archives
+    external:     false
+  - name:         标签
+    url:          /tags
+    external:     false
+  - name:         关于
+    url:          /about
+    external:     false
+# ------------ CONFIGURABLE END ------------
 
-title: Parsa | Portfolio Jekyll Template
-logo: logo.png # You can add own logo
-description: # Add your awesome description
-baseurl: "https://khuynhtroc.github.io/tkdc.vn" # The subpath of your site, e.g. /blog
-url: "https://khuynhtroc.github.io/tkdc.vn" # The base hostname & protocol for your site, e.g. http://example.com
-
-# Preloader
-preloader: true # To disable preloader change value to false
-
-menu:
-  - url: /
-    name: Home
-  - url: /about/
-    name: About
-  - url: /categories/
-    name: Categories
-  - url: /contact/
-    name: Contact
-
-# *** NOTE ***
-# You can add submenus. For example:
-
-#  menu:
-#  - url: /
-#    name: Home
-#  - url: /travel/
-#    name: Travel
-#     submenu:
-#      - url: /peru/
-#        name: Peru
-# ----------------------------------
-
-layout_home_page: true # Homepage layout ( two layout is available, you can set the another layout by change the value of layout_home_page "true" to "false")
-
-featured-post-slider: true # You can enable or disable the featured-post-slider using true or false values.
-
-#-------------------------------
-# Hero Section
-hero:
-  hero-subtitle: I’m a Freelance Interactive Art Director based in France. Focusing across branding and identity, digital and print.
-  hero-banner: banner-img.png # Add your banner image '/assets/images/'
-
-#-------------------------------
-# Author Settings
-author:
-  name: Jhon Abraham
-
-#-------------------------------
-# Contact Info
-contact:
-  email: example@ymail.com
-  phone: +90 000 333 22
-  address:
-    city: Sydney
-    street: 6 rip carl Avenue CA 90733
-
-# Contact Form
-contact-form: example@ymail.com
-
-# Social links
-social:
-- {icon: "ti-facebook", link: "#"}
-- {icon: "ti-twitter-alt", link: "#"}
-- {icon: "ti-linkedin", link: "#"}
-- {icon: "ti-github", link: "#"}
-
-#-------------------------------
-# Comment Section (Disqus)
-disqus-identifier: # Add your shortname for Disqus Comment. For example mr-brown
-
-#-------------------------------
-# Instagram Feed
-instafeed: true # To enable the instafeed, use the value true. To turn off use the value false.
-userID: 4044026246
-accessToken: 4044026246.1677ed0.8896752506ed4402a0519d23b8f50a17
-
-#-------------------------------
-# Google Analytics
-google-analytics: # Add your identifier. For example UA-99631805-1.
-
-#-------------------------------
-# Build settings
-markdown: kramdown
-permalink: pretty
-plugins:
-  - jekyll-paginate
-  - jekyll-sitemap
-  - jekyll/tagging
-
-paginate: 10
-paginate_path: "/page/:num"
-
-# Pages Path
+#permalink:        /:categories/:title.html
+permalink: /:year/:month/:day/:title.html
 defaults:
-  - scope:
-      path: '_pages'
-    values:
-      permalink: /:basename:output_ext
-
-include:
-  - _pages
-
-# Tags
-tag_page_dir:         tag
-tag_page_layout:      tag_page
-tag_permalink_style:  pretty
-
-# Exclude from processing.
-exclude:
-  - Gemfile
-  - Gemfile.lock
-  - vendor
+  - values:
+      layout: "default"
