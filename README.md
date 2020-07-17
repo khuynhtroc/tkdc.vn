@@ -1,70 +1,23 @@
-                .::         .::                       .::      .::                 
-                .::       .:.::                        .::   .::                    
-                .::         .::         .::    .: .:::  .:: .::   .::  .::   .::    
-                .::      .::.:: .::   .:   .::  .::       .::     .::  .:: .:   .:: 
-                .::      .::.::   .::.::::: .:: .::     .:: .::   .::  .::.::::: .::
-                .::      .::.::   .::.:         .::    .::   .::  .::  .::.:        
-                .::::::::.::.:: .::    .::::   .:::   .::      .::  .::.::  .::::   
-                          Copyright (c) 2016-2018 liberxue
-                                 http://www.liberxue.com
-                           
-#### liberxue.github.io preview (demo) (http://www.liberxue.com)
+# Mediumish - Jekyll Theme
 
-#### `Jekyll Themes`
-----------
-[简体中文版帮助文档README](/ChinaREADME.md)
-#### ``Lightweight``  ``Minimalist``  ``Jekyll blog``
+[Live Demo](https://wowthemesnet.github.io/mediumish-theme-jekyll/) &nbsp; | &nbsp; [Download](https://github.com/wowthemesnet/mediumish-theme-jekyll/archive/master.zip) &nbsp; | &nbsp; [Documentation](https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/) &nbsp; | &nbsp; [Buy me a coffee](https://www.wowthemes.net/donate/)
 
-#### The first step is to click [fork][https://github.com/liberxue/liberxue.github.io/fork]
-#### The second step is to modify the _config.yml in URL for your domain name
-
-#### OK all right, it's that simple
-
-#### I don't want any copyright also don't need you to donate, I only need you with a star 🌟  Thx 😄
-
-- [x] Automatic generation tag
-- [x] Automatic generation of JSON search
-- [x] Adaptive template
-- [x] Automatic generation of feed.xml
-- [x] Automatic paging generation
-- [x] Modify _config.yml's links for your menu
-- [x] Modify the _config.yml of paginate for how many pages you want to page
-## Stargazers over time
-
-[![Stargazers over time](https://starchart.cc/Liberxue/liberxue.github.io.svg)](https://starchart.cc/Liberxue/liberxue.github.io)
-
-![uiliberxue](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/ui.jpg) 
-
- ![archives](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/archives.png) 
-
- ![blog](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/blog.png) 
-
- ![tags](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/tags.png) 
-
-  ![404](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/404.png) 
-
- ----------
-![blog JSON search](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/01.gif) 
-
-#### 1.First step Click[fork](https://github.com/Liberxue/liberxue.github.io#fork-destination-box)
- 
-----
-
-![fork](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/02.gif)
-  
-  
+![mediumish](assets/images/mediumish-jekyll-template.png)
 
 
-#### 2. modify _config.yml url URL for your domain
+### Copyright
 
-![modify _config.yml url URL for your domain](https://raw.githubusercontent.com/Liberxue/liberxue.github.io/master/thumbnails/04.gif)
-  
+Copyright (C) 2019 Sal, https://www.wowthemes.net
 
+**Mediumish for Jekyll** is designed and developed by [Sal](https://www.wowthemes.net) and it is *free* under MIT license. 
 
+<a href="https://www.wowthemes.net/donate/" target="_blank"><img src="https://www.buymeacoffee.com/assets/img/custom_images/orange_img.png" alt="Buy Me A Coffee" style="height: auto !important;width: auto !important;" ></a>
 
-* [Issues](https://github.com/Liberxue/liberxue.github.io/issues)
- 
-* [Email](mailto:liberxue@gmail.com)
- 
-* [Twitter](https://twitter.com/liberxue).
+### Contribute
 
+1. [Fork the repo](https://github.com/wowthemesnet/mediumish-theme-jekyll).
+2. Clone a copy of your fork on your local
+3. Create a branch off of master and give it a meaningful name (e.g. my-new-mediumish-feature).
+4. Make necessary changes, commit, push and open a pull request on GitHub.
+
+Thank you!
