@@ -43,6 +43,8 @@ permalink: "/home/"
 
         {% for post in site.posts %}
 
+        {% for post in paginator.posts %}
+
         {% include postbox.html %}
 
         {% endfor %}
