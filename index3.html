@@ -1,3 +1,4 @@
+---
 layout: default
 title: Taking Care Animals
 permalink: "/home/"
@@ -40,7 +41,7 @@ permalink: "/home/"
 
     <div class="row listrecent">
 
-        {% for post in site.posts %}
+        {% for post in paginator.posts %}
 
         {% include postbox.html %}
 
