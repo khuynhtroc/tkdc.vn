@@ -3,7 +3,7 @@ title: Taking Care Animals
 permalink: "/home/"
 ---
 
-
+{% if page.url == "/" %}
 
 <!-- Featured
 ================================================== -->
@@ -26,7 +26,7 @@ permalink: "/home/"
     </div>
 </section>
 
-
+{% endif %}
 
 <!-- Posts Index
 ================================================== -->
@@ -40,7 +40,7 @@ permalink: "/home/"
 
     <div class="row listrecent">
 
-        {% for post in paginator.posts %}
+        {% for post in site.posts %}
 
         {% include postbox.html %}
 
