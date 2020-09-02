@@ -863,7 +863,7 @@ iframe {
 .spoiler:after {
     position: absolute;
     opacity: 0;
-    content: 'Click to reveal spoiler';
+    content: 'Click vào để xem chi tiết';
     top: 45%;
     left: calc(50% - 100px);
     text-shadow: none;
