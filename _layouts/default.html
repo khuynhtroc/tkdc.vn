@@ -6,9 +6,17 @@
 
 <link rel="icon" href="{{ site.baseurl }}/assets/images/logo.png">
 
+<!-- Canonical -->
+<link rel="canonical" href="{{ site.baseurl }}/{{ page.url }}">
+
 <title>{{ page.title }} | {{site.name}}</title>
+<meta name="description" content="{{ description }}">
+<meta name="author" content="{{ page.author }}">
+{% if page.meta-keywords %}<meta name="keywords" content="{{ page.meta-keywords }}">{% endif %}
 
 {% seo %}
+
+<link rel="canonical" href="{{ canonical }}">
 
 <link rel="stylesheet" href="https://stackpath.bootstrapcdn.com/bootstrap/4.1.3/css/bootstrap.min.css" integrity="sha384-MCw98/SFnGE8fJT3GXwEOngsV7Zt27NXFoaoApmYm81iuXoPkFOJwJ8ERdknLPMO" crossorigin="anonymous">
     
