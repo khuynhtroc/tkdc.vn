@@ -4,8 +4,7 @@ Copyright: Sal, WowThemes.net, https://www.wowthemes.net
 License: https://www.wowthemes.net/freebies-license/ 
 */
 @media (min-width: 1920px) {
-.container, .container-lg {
-    width: 1280px;
+.container {
     max-width: 1280px;
 }
 @media screen and (min-width:1500px) {
