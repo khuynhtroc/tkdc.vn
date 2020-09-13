@@ -31,9 +31,12 @@ pagination:
     </p>
     <div>
         <small class="d-block text-muted">
-            In <span class="catlist">
+            In <span class="catlist" style="background: rgba(0,0,0,.05);
+    color: rgba(0,0,0,.6);
+    border-radius: 3px;
+    padding: 5px 10px;">
                 {% for category in latest_post.categories %}
-                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span class="sep">, </span>
+                <a class="text-capitalize text-muted smoothscroll" href="{{site.baseurl}}/categories.html#{{ category | downcase }}">{{ category }}</a><span>, </span>
                 {% endfor %}
                 </span>                   
         </small>
