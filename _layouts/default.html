@@ -83,7 +83,7 @@ ga('send', 'pageview');
 
         <!-- Begin Menu -->
 
-            <ul class="navbar-nav ml-auto">
+            <!--ul class="navbar-nav ml-auto d-flex align-items-center">
 
                 {% if page.url == "/" %}
                 <li class="nav-item active">
@@ -105,7 +105,7 @@ ga('send', 'pageview');
                 <a class="nav-link" href="{{ site.baseurl }}/tags">Tags</a>
                 </li>
 
-                <!--i class="nav-item">
+                <i class="nav-item">
                 <a target="_blank" class="nav-link" href="https://bootstrapstarter.com/bootstrap-templates/template-mediumish-bootstrap-jekyll/"> Docs</a>
                 </li>
 
@@ -119,12 +119,19 @@ ga('send', 'pageview');
 
                 <li class="nav-item">
                 <a target="_blank" class="nav-link" href="https://github.com/wowthemesnet/mediumish-theme-jekyll"><i class="fab fa-github"></i> Fork on Github</a>
-                </li-->
+                </li>
 
                 {% include search-lunr.html %}
 
+            </ul-->
+        <div class="navbar-collapse collapse" id="navbarColor02" style="">
+            <ul class="navbar-nav mr-auto d-flex align-items-center">
+               {% include menu-header.html %}
             </ul>
-
+            <ul class="navbar-nav ml-auto d-flex align-items-center">
+                {% include search-lunr.html %}
+            </ul>
+        </div>
         <!-- End Menu -->
 
     </div>
