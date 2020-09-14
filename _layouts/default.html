@@ -193,7 +193,10 @@ ga('send', 'pageview');
                {% include menu-header.html %}
             </ul>
             <ul class="navbar-nav ml-auto d-flex align-items-center">
-                {% include search-lunr.html %}
+                <li class="nav-item">{% include search-lunr.html %}</li>
+                <li class="nav-item">
+                  <input class="nav-link switch" id="theme-toggle" onclick="modeSwitcher() " type="checkbox" name="checkbox" />
+                </li>
             </ul>
         <!-- End Menu -->
 
@@ -293,6 +296,8 @@ ga('send', 'pageview');
 <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.2.1/js/bootstrap.min.js" integrity="sha384-B0UglyR+jN6CkvvICOB2joaf5I4l3gm9GU6Hc1og6Ls7i6U/mkkaduKaBhlAXv9k" crossorigin="anonymous"></script>
 
 <script src="{{ site.baseurl }}/assets/js/mediumish.js"></script>
+
+<script src="{{site.url}}{{site.baseurl}}/assets/js/mode-switcher.js"></script>
 
 {% if site.lazyimages == "enabled" %}
 <script src="{{ site.baseurl }}/assets/js/lazyload.js"></script>
