@@ -172,13 +172,23 @@ post_class: post-template
             </div>
             <!-- End Categories -->
 
-            <br />
+            <br>
             {%- include share_page.html -%}
+
+            <div id="hyvor-talk-view"></div>
+<script type="text/javascript">
+    var HYVOR_TALK_WEBSITE = 1295; // DO NOT CHANGE THIS
+    var HYVOR_TALK_CONFIG = {
+        url: '{{ page.url | absolute_url }}',
+        id: '{{page.id}}'
+    };
+</script>
+<script async type="text/javascript" src="//talk.hyvor.com/web-api/embed"></script>
             
             {%- if site.hyvor_talk_website_id -%}
-            <div class="comments">
+            <!--div class="comments"-->
                 {%- include hyvor_comments.html -%}
-            </div>
+            <!--/div-->
             {%- endif -%}
             
             <!-- End Post -->
