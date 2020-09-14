@@ -106,6 +106,15 @@ post_class: post-template
             </div>
             <!-- End Tags -->
 
+            <!-- Tags -->
+            <div class="mb-4">
+                <span class="taglist">
+                {% for tag in page.tags %}
+                  <a class="sscroll btn btn-light btn-sm font-weight-bold" href="{{site.baseurl}}/tags.html#{{ tag | downcase }}">{{ tag | downcase }}</a>
+                {% endfor %}
+                </span>
+            </div>
+
             <!-- Mailchimp Subscribe Form -->
             {% if site.mailchimp-list %}
             <div class="border p-5 bg-lightblue" style="background-color: #e8f3ec !important;
