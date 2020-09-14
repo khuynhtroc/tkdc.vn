@@ -172,8 +172,16 @@ post_class: post-template
             </div>
             <!-- End Categories -->
 
-        </div>
-        <!-- End Post -->
+            <br />
+            {%- include share_page.html -%}
+            
+            {%- if site.hyvor_talk_website_id -%}
+            <div class="comments">
+                {%- include hyvor_comments.html -%}
+            </div>
+            {%- endif -%}
+            
+            <!-- End Post -->
 
     </div>
 </div>
