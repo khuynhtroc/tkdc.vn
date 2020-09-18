@@ -15,14 +15,15 @@ permalink: /:title/
 
 # Authors
 authors:
-  sal:
+  huynhtroc:
     name: Nguyễn Trọng Huỳnh
     display_name: Trọng Huỳnh
+    avatar: assets/images/author/trong-huynh.jpg
     gravatar: e56154546cf4be74e393c62d1ae9f9d4
     email: huynhnt135@gmail.com
     web: https://tkanimals.com
-    twitter: https://twitter.com/wowthemesnet
-    description: "Author of Mediumish, a Bootstrap Medium styled template available for WordPress, HTML, Ghost and Jekyll. You are currently previewing Jekyll template demo."
+    twitter: https://twitter.com/huynhtroc
+    description: "Taking Care Animals! We can judge the heart of a man by his treatment of animals!"
   john:
     name: Phạm Thị Hương
     display_name: Phạm Hương    
@@ -32,7 +33,6 @@ authors:
     web: https://tkanimals.com
     twitter: https://twitter.com/wowthemesnet
     description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
-
 
 # social links
 twitter_username: johndoe
@@ -58,7 +58,7 @@ wakatime_username: sujaykundu777
 mailchimp_form_url: https://sujaykundu.us10.list-manage.com/subscribe/post?u=50bab1c85eae24ecfb0f68361&amp;id=3a2dd721d0
 
 # formspree (contact form)
-formspree_email: johndoe@gmail.com
+formspree_email: huynhnt135@gmail.com
 
 # syntax highlighter
 markdown: kramdown

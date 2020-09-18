@@ -1,8 +1,8 @@
 ---
 layout: post
 title:  "6 Ways To Take Care Of A Newborn Puppy"
-summary: Hello World ! This is a sample post
-author: Waiting for the puppies to be born is a fun experience, but it's important to know how to take care of the mother and the puppies. Good care will ensure the health of both mother and child. The methods in this article will help you prepare your dog and home for the puppies, as well as how to care for your newborn puppies.
+summary: Waiting for the puppies to be born is a fun experience, but it's important to know how to take care of the mother and the puppies. Good care will ensure the health of both mother and child. The methods in this article will help you prepare your dog and home for the puppies, as well as how to care for your newborn puppies.
+author: huynhtroc
 categories: [ Dogs ]
 tags: dog puppy
 image: assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-43-Version-3.tkanimals.com.webp
