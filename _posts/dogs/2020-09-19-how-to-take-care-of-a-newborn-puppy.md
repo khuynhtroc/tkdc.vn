@@ -324,6 +324,4 @@ For fipronil (Frontline) the dog must be at least 8 weeks old and over 2 kg.
 
 Puppies already have a certain level of immunity from breast milk, but they still need additional vaccinations to be sure. Ask your veterinarian about the appropriate vaccination plan.
 
-> Advice
-
-Do not hold the puppy until she has opened her eyes and started walking, as the mother is very aggressive at that time!
+> Advice: Do not hold the puppy until she has opened her eyes and started walking, as the mother is very aggressive at that time!
