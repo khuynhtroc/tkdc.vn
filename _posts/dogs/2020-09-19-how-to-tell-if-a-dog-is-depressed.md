@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "How To Recognize The Signs Of A Depressed Dog (with Photo)?"
-summary: Even though our beloved pet is gone, our love for them will never change. However, death - even for dogs - is a reality you have to face. In your last moments with this loyal friend and companion, you should be aware of the signs that your dog is about to die so that you and your family have time to prepare yourself and let the dog go. serene, peaceful and comfortable. You should read the article below to make sure your dog does not suffer a lot of pain.
+summary: Just like humans, dogs are susceptible to depression. Depression is often caused by changes in lifestyle habits, such as losing a companion, moving a house or adding a new member in the home. Dogs with depression can have behavioral changes (lack of energy, walking around, anorexia) and body language (drooping of tail and ears). You need to recognize the signs of depression in order to take steps to help your dog recover.
 author: huynhtroc
 categories:gs ]
 tags: dog puppy depresseddog
 image: assets/images/blog/dogs/how-to-tell-if-a-dog-is-depressed/v4-728px-Tell-if-Your-Dog-Is-Depressed-Step-21-Version-2.jpg.webp
-beforetoc: "Even though our beloved pet is gone, our love for them will never change. However, death - even for dogs - is a reality you have to face. In your last moments with this loyal friend and companion, you should be aware of the signs that your dog is about to die so that you and your family have time to prepare yourself and let the dog go. serene, peaceful and comfortable. You should read the article below to make sure your dog does not suffer a lot of pain."
+beforetoc: "Just like humans, dogs are susceptible to depression. Depression is often caused by changes in lifestyle habits, such as losing a companion, moving a house or adding a new member in the home. Dogs with depression can have behavioral changes (lack of energy, walking around, anorexia) and body language (drooping of tail and ears). You need to recognize the signs of depression in order to take steps to help your dog recover."
 toc: true
 rating: 5
 permalink: /dogs/how-to-tell-if-a-dog-is-depressed.html
