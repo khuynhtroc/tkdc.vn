@@ -327,3 +327,6 @@ Flea repellants should never be used on newborn puppies. Most of these products 
 Puppies already have a certain level of immunity from breast milk, but they still need additional vaccinations to be sure. Ask your veterinarian about the appropriate vaccination plan.
 
 > Advice: Do not hold the puppy until she has opened her eyes and started walking, as the mother is very aggressive at that time!
+
+> Ngôn ngữ khác
+English:Care for Newborn Puppies, Italiano:Prendersi Cura di Cuccioli Appena Nati, Español:cuidar cachorros recién nacidos, Português:Cuidar de Cães Recém Nascidos, Deutsch:Neugeborene Welpen pflegen, Русский:ухаживать за новорожденными щенками, 中文:照顾新生的小狗, Bahasa Indonesia:Merawat Anak Anjing yang Baru Lahir, Français:s'occuper d'une portée de chiots, Nederlands:Voor pasgeboren puppy's zorgen, العربية:الاعتناء بالجراء حديثة الولادة, Čeština:Jak se starat o novorozené štěně, ไทย:ดูแลลูกสุนัขเกิดใหม่, 한국어:갓 태어난 강아지를 보살피는 법, 日本語:犬の新生子の世話をする, हिन्दी:नवजात पपीज़ या कुत्ते के छोटे बच्चों की देखभाल करें (Care for Newborn Puppies)
