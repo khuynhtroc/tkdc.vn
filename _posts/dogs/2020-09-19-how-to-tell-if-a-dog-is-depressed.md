@@ -5,7 +5,7 @@ summary: Even though our beloved pet is gone, our love for them will never chang
 author: huynhtroc
 categories:gs ]
 tags: dog puppy depresseddog
-image: assets/images/blog/dogs/how-to-recognize-a-dying-dog/v4-728px-Recognize-a-Dying-Dog-Step-16.jpg.webp
+image: assets/images/blog/dogs/how-to-tell-if-a-dog-is-depressed/v4-728px-Tell-if-Your-Dog-Is-Depressed-Step-21-Version-2.jpg.webp
 beforetoc: "Even though our beloved pet is gone, our love for them will never change. However, death - even for dogs - is a reality you have to face. In your last moments with this loyal friend and companion, you should be aware of the signs that your dog is about to die so that you and your family have time to prepare yourself and let the dog go. serene, peaceful and comfortable. You should read the article below to make sure your dog does not suffer a lot of pain."
 toc: true
 rating: 5
