@@ -85,8 +85,8 @@ To get the mother to get used to the nest box, put the foods she likes in the bo
 
 ### 3. Let the mother choose the birthplace. 
 
-Don't worry if it doesn't choose the box as the birthplace. She will choose where she feels safest, be it behind the sofa or under the bed. Leave it alone as long as the place doesn't endanger it.If you try to move, it can be tense and labor will slow or stop.
-
+Don't worry if it doesn't choose the box as the birthplace. She will choose where she feels safest, be it behind the sofa or under the bed. Leave it alone as long as the place doesn't endanger it. 
+- If you try to move, it can be tense and labor will slow or stop.
 
 ![Image titled Care for Newborn Puppies Step 11]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-11-Version-4.tkanimals.com.webp)
 
@@ -99,7 +99,7 @@ If the mother has chosen her birthplace under the bed or behind the sofa, keep a
 ### 5. Have your veterinarian's phone number ready. 
 
 Save the vet's phone number in the phone or stick it on the refrigerator. If there is an emergency you need to have a phone number to contact immediately.
-Ask your doctor how to contact them if your dog is born at night.
+- Ask your doctor how to contact them if your dog is born at night.
 
 ![Image titled Care for Newborn Puppies Step 13]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-13-Version-4.tkanimals.com.webp)
 
@@ -138,38 +138,39 @@ It is important to keep the nest clean after the puppies are born, but be carefu
 ### 4. Let the mother and puppies bond for the first 4-5 days. 
 
 The early days of a puppy's life are an important time to bond with their mother. Try not to touch them during these first few days.
-Limit your puppy's movements at first. Only move the puppies when you need to clean the can, usually from day 3 onwards.
+Limit your puppy's movements at first. 
+- Only move the puppies when you need to clean the can, usually from day 3 onwards.
 
 ![Image titled Care for Newborn Puppies Step 19]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-19-Version-3.tkanimals.com.webp)
 
 ### 5. Check your puppy's temperature. 
 
 Using your hands to touch their body, a cold dog will feel cool to the touch, it will not react and is very quiet when touched. Dogs that are overheated often have red ears and tongue. They move abnormally in an attempt to avoid the hot source of heat.
-Your puppy's body temperature at birth is usually about 34.5-37.2 degrees Celsius. This temperature will increase to 37.8 degrees C when the dog is 2 weeks old. However, you don't need to take your dog's temperature with a thermometer. Consult your veterinarian if you have concerns or questions.
-If you are using a warm-up light, check your dog's skin periodically for flaking or redness. Turn off the lights if this happens.
+- Your puppy's body temperature at birth is usually about 34.5-37.2 degrees Celsius. This temperature will increase to 37.8 degrees C when the dog is 2 weeks old. However, you don't need to take your dog's temperature with a thermometer. Consult your veterinarian if you have concerns or questions.
+- If you are using a warm-up light, check your dog's skin periodically for flaking or redness. Turn off the lights if this happens.
 
 ![Image titled Care for Newborn Puppies Step 20]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-20-Version-3.tkanimals.com.webp)
 
 ### 6. Adjust the room temperature. 
 
 Newborn puppies cannot regulate their own temperature, so they get cold easily. If the mother is not there, provide a heat source.
-Adjust the room temperature so that you feel comfortable in shorts and a t-shirt.
-Add extra heat to the puppy's bed by placing a heating pad under the backing material. Set the thermostat to “low” to avoid overheating. The puppy will not be able to move itself if it is hot.
+- Adjust the room temperature so that you feel comfortable in shorts and a t-shirt.
+- Add extra heat to the puppy's bed by placing a heating pad under the backing material. Set the thermostat to “low” to avoid overheating. The puppy will not be able to move itself if it is hot.
 
 ![Image titled Care for Newborn Puppies Step 21]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-21-Version-3.tkanimals.com.webp)
 
 ### 7. Weigh the puppies daily. 
 
 Use a hand-held digital scale to weigh puppies daily for the first 3 weeks. Record the weight of each individual to make sure they are healthy and getting enough nutrients. Sterilize the scale before placing the dog on it. Use a household disinfectant to clean the scale, then dry it.
-Track steady weight gain each day. However, do not worry if the dog one day does not gain weight or lose half a pound. It is fine if you are flexible and eat as normal, you can wait until the next day to re-weight. Contact your vet if the puppy is still not gaining weight.
+- Track steady weight gain each day. However, do not worry if the dog one day does not gain weight or lose half a pound. It is fine if you are flexible and eat as normal, you can wait until the next day to re-weight. Contact your vet if the puppy is still not gaining weight.
 
 ![Image titled Care for Newborn Puppies Step 22]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-22-Version-3.tkanimals.com.webp)
 
 ### 8. Do not let guests bring germs. 
 
 Visitors to the puppies are often the cause of the infection. Their shoes and hands can carry bacteria or viruses.
-Ask guests to remove their outdoor shoes before entering the room where the mother is nursing.
-Have guests wash their hands completely with soap and water before touching or handling the puppy. However, you must refrain from touching or moving the puppy.
+- Ask guests to remove their outdoor shoes before entering the room where the mother is nursing.
+- Have guests wash their hands completely with soap and water before touching or handling the puppy. However, you must refrain from touching or moving the puppy.
 
 ![Image titled Care for Newborn Puppies Step 23]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-23-Version-3.tkanimals.com.webp)
 
@@ -184,30 +185,30 @@ Other animals can carry diseases and dangerous bacteria to newborn puppies. The 
 ### 1. Help the puppy suck on the nipple. 
 
 A newborn puppy has not opened his eyes and heard, nor can he walk until 10 days old. She has to fumble around for the nipple of her mother. Some babies need a little help trying to latch on.
-First you have to wash and dry your hands. Pick it up and place the dog's mouth on the mother's nipple. It usually gropes through its mouth to explore, but if the puppy can't find the nipple, you can gently adjust its head so that the lips are on the nipple.
-There are cases where you need to express a few drops of milk from the nipple. The puppy will smell the milk and find the nipple
-If the puppy still can't latch, gently put one finger in the corner of his mouth to open his jaw. Then place the dog's mouth on the nipple and remove the finger. Then the puppy will start to suckle.
+- First you have to wash and dry your hands. Pick it up and place the dog's mouth on the mother's nipple. It usually gropes through its mouth to explore, but if the puppy can't find the nipple, you can gently adjust its head so that the lips are on the nipple.
+- There are cases where you need to express a few drops of milk from the nipple. The puppy will smell the milk and find the nipple
+- If the puppy still can't latch, gently put one finger in the corner of his mouth to open his jaw. Then place the dog's mouth on the nipple and remove the finger. Then the puppy will start to suckle.
 
 ![Image titled Care for Newborn Puppies Step 25]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-25-Version-3.tkanimals.com.webp)
 
 ### 2. Track your milk feeding. 
 
 Remember which breast usually breastfed on which breast, the rear breasts usually produce more milk than the front breast. Breast-feeding before breast will get less milk than breast-feeding after breast.
-If one baby is not gaining weight as quickly as the others, try to force it to suck in the posterior breasts.
+- If one baby is not gaining weight as quickly as the others, try to force it to suck in the posterior breasts.
 
 ![Image titled Care for Newborn Puppies Step 26]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-26-Version-3.tkanimals.com.webp)
 
 ### 3. Not both bottle-feeding and breast-feeding. 
 
 When the mother nurses the puppies its body produces milk, so if the puppies do not suck much, the milk production also decreases. If the dog's body reduces milk production, there is a risk that the milk will not be enough to provide nutrition for the puppies.
-You should only bottle feed if this is absolutely necessary. That is when having a baby is not strong enough to compete with its brethren in search of a breast. The second reason is that a mother dog has more babies than she has nipples.
+- You should only bottle feed if this is absolutely necessary. That is when having a baby is not strong enough to compete with its brethren in search of a breast. The second reason is that a mother dog has more babies than she has nipples.
 
 ![Image titled Care for Newborn Puppies Step 27]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-27-Version-3.tkanimals.com.webp)
 
 ### 4. Keep food and water easily accessible to the mother. 
 
 The mother usually doesn't want to leave the puppies, so keep food and water easily accessible. Some do not even leave the nest for the first 2-3 days. In this case you should put the food and water in the can.
-The puppies can watch their mother eat.
+- The puppies can watch their mother eat.
 
 ![Image titled Care for Newborn Puppies Step 28]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-28-Version-3.tkanimals.com.webp)
 
@@ -222,45 +223,45 @@ Puppies often depend entirely on breast milk for 3-4 weeks. At the end of this t
 ### 1. Prepare yourself to take care 24 hours a day. 
 
 Taking care of a newborn puppy is tiring and demanding work, especially during the first two weeks. At first they need 24 hours of continuous care.
-You may need to take time off from home to look after them, as the puppies need almost constant care for the first 2 weeks.
-Consider this before you breed your bitch. If you are unable to spend time caring for the puppies, do not mate the bitch.
+- You may need to take time off from home to look after them, as the puppies need almost constant care for the first 2 weeks.
+- Consider this before you breed your bitch. If you are unable to spend time caring for the puppies, do not mate the bitch.
 
 ![Image titled Care for Newborn Puppies Step 30]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-30-Version-3.tkanimals.com.webp)
 
 ### 2. Buy breast milk replacement milk. 
 
 If your puppies do not have a foster mother, you must buy suitable milk for them. Ideally, the milk used to replace the mother's milk. The product is produced in powder form (Lactol) and you must mix it with boiling water (very similar to how to make infant formula).
-This type of milk can be found in vet clinics or major pet stores.
-Do not use cow's milk, goat's milk or infant formula. They are not formulated for puppies.
-You can temporarily use condensed milk mixed with boiling water while shopping for the right dog milk substitute. Mix 4 parts canned condensed milk with 1 part boiling water to feed your dog.
+- This type of milk can be found in vet clinics or major pet stores.
+- Do not use cow's milk, goat's milk or infant formula. They are not formulated for puppies.
+- You can temporarily use condensed milk mixed with boiling water while shopping for the right dog milk substitute. Mix 4 parts canned condensed milk with 1 part boiling water to feed your dog.
 
 ![Image titled Care for Newborn Puppies Step 31]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-31-Version-3.tkanimals.com.webp)
 
 ### 3. Feed the puppies every 2 hours. 
 
 They need to be fed every 2 hours, which means you need to feed 12 times in 24 hours.
-Follow the instructions on the packaging to make a replacement formula (usually 30 grams of powder for 105 ml of boiling water).
+- Follow the instructions on the packaging to make a replacement formula (usually 30 grams of powder for 105 ml of boiling water).
 
 ![Image titled Care for Newborn Puppies Step 32]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-32-Version-3.tkanimals.com.webp)
 
 ### 4. Watch for signs that your dog is hungry. 
 
 A hungry puppy makes a very noisy noise, it will squeal and whine, which is a signal for the mother to feed. If it wriggles and groans, it has not eaten for 2-3 hours and needs to be fed.
-You can also observe the shape of the dog's belly. Because the puppy has very little body fat, when hungry the dog will be flat or slightly indented. When it's full it looks like a barrel.
+- You can also observe the shape of the dog's belly. Because the puppy has very little body fat, when hungry the dog will be flat or slightly indented. When it's full it looks like a barrel.
 
 ![Image titled Care for Newborn Puppies Step 33]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-33-Version-3.tkanimals.com.webp)
 
 ### 5. Use a bottle and teat designed specifically for puppies. 
 
 Nipples designed for puppies are softer than baby nipples. These can be purchased at vet clinics and major pet stores.
-In an emergency, use a bottle of eye drops to feed your dog. However, you should avoid this option because there is the risk that the dog will ingest too much air with the milk. The air entering the abdomen will cause tension and pain.
+- In an emergency, use a bottle of eye drops to feed your dog. However, you should avoid this option because there is the risk that the dog will ingest too much air with the milk. The air entering the abdomen will cause tension and pain.
 
 ![Image titled Care for Newborn Puppies Step 34]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-34-Version-3.tkanimals.com.webp)
 
 ### 6. Feed the puppy until it stops sucking. 
 
 Follow the instructions on the product packaging to get an estimate of how much milk to feed your dog. However, one good rule of thumb is to feed your dog until it is no longer hungry. It will stop sucking when it is full.
-When the puppies are full, they usually sleep and will continue to ask for the next meal when they are hungry, or about 2-3 hours later.
+- When the puppies are full, they usually sleep and will continue to ask for the next meal when they are hungry, or about 2-3 hours later.
 
 ![Image titled Care for Newborn Puppies Step 35]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-35-Version-3.tkanimals.com.webp)
 
@@ -271,14 +272,14 @@ When the puppies are full, they usually sleep and will continue to ask for the n
 ### 8. Sterilize all feeding equipment. 
 
 Wash and sanitize all the utensils you use for feeding the puppies. Use a disinfectant specifically made for baby tools or a steam sterilizer.rty first]
-Instead you can boil the utensils in water.
+- Instead you can boil the utensils in water.
 
 ![Image titled Care for Newborn Puppies Step 37]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-37-Version-3.tkanimals.com.webp)
 
 ### 9. Wipe the puppy's anus before and after each feed. 
 
 Newborn puppies do not urinate or defecate spontaneously, but should be stimulated. The mother usually does this by licking the area around the anus (under the tail, where the anus is located), mainly before and after the puppy suckles.
-Wipe the area under the tail with a cotton wool cloth moistened with warm water before and after each feeding, thus stimulating the excretion of feces and urine. Wipe any excreted feces and urine.
+- Wipe the area under the tail with a cotton wool cloth moistened with warm water before and after each feeding, thus stimulating the excretion of feces and urine. Wipe any excreted feces and urine.
 
 ![Image titled Care for Newborn Puppies Step 38]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-38-Version-3.tkanimals.com.webp)
 
@@ -288,18 +289,19 @@ Puppies have larger stomachs over time, so they can store more food. By the thir
 
 ![Image titled Care for Newborn Puppies Step 39]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-39-Version-3.tkanimals.com.webp)
 
-### 11. 
-Check your puppy's temperature. Using your hands to touch their body, a cold dog will feel cool to the touch, it will not react and is very quiet when touched. Dogs that are overheated often have red ears and tongue. They move abnormally in an attempt to avoid the hot source of heat.
-Your puppy's body temperature at birth is usually about 34.5-37.2 degrees Celsius. This temperature will increase to 37.8 degrees C when the dog is 2 weeks old. However, you don't need to take your dog's temperature with a thermometer. Consult your veterinarian if you have concerns or questions.
-If you are using a warm-up light, check your dog's skin periodically for flaking or redness. Turn off the lights if this happens.
+### 11. Check your puppy's temperature. 
+
+Using your hands to touch their body, a cold dog will feel cool to the touch, it will not react and is very quiet when touched. Dogs that are overheated often have red ears and tongue. They move abnormally in an attempt to avoid the hot source of heat.
+- Your puppy's body temperature at birth is usually about 34.5-37.2 degrees Celsius. This temperature will increase to 37.8 degrees C when the dog is 2 weeks old. However, you don't need to take your dog's temperature with a thermometer. Consult your veterinarian if you have concerns or questions.
+- If you are using a warm-up light, check your dog's skin periodically for flaking or redness. Turn off the lights if this happens.
 
 ![Image titled Care for Newborn Puppies Step 40]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-40-Version-3.tkanimals.com.webp)
 
 ### 12. Adjust the room temperature. 
 
 Newborn puppies cannot regulate their own temperature, so they get cold easily. If the mother is not there, provide a heat source.
-Adjust the room temperature so that you feel comfortable in shorts and a t-shirt.
-Add extra heat to the puppy's bed by placing a heating pad under the backing material. Set the thermostat to “low” to avoid overheating. The puppy will not be able to move itself if it is hot.
+- Adjust the room temperature so that you feel comfortable in shorts and a t-shirt.
+- Add extra heat to the puppy's bed by placing a heating pad under the backing material. Set the thermostat to “low” to avoid overheating. The puppy will not be able to move itself if it is hot.
 
 ## Method 6: Get medical attention for your puppies
 
@@ -308,15 +310,15 @@ Add extra heat to the puppy's bed by placing a heating pad under the backing mat
 ### 13. After two weeks of age you can apply anti-worm products to them. 
 
 Dogs often carry worms and other parasites that can cause many health problems, so you should use anti-worm medicine as soon as the puppy is old enough. There are no anti-worm products that are recommended for use in newborn puppies. However, fenbendazole (Panacur) is suitable for dogs 2 weeks of age and older.
-Panacur comes in a liquid form and is used by a syringe pumped into the dog's mouth after a feed. The oral dosage is 2 ml per day per kilogram of body weight. Give orally once a day for 3 days.
+- Panacur comes in a liquid form and is used by a syringe pumped into the dog's mouth after a feed. The oral dosage is 2 ml per day per kilogram of body weight. Give orally once a day for 3 days.
 
 ![Image titled Care for Newborn Puppies Step 42]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-42-Version-3.tkanimals.com.webp)
 
 ### 2. Wait until the dog is 6 weeks old before applying the anti-flea medicine. 
 
 Flea repellants should never be used on newborn puppies. Most of these products have minimum recommendations for weight and age for use, and currently there are no products for use with newborn puppies.
-Puppies must be at least 6 weeks old before applying selamectin.
-For fipronil (Frontline) the dog must be at least 8 weeks old and over 2 kg.
+- Puppies must be at least 6 weeks old before applying selamectin.
+- For fipronil (Frontline) the dog must be at least 8 weeks old and over 2 kg.
 
 ![Image titled Care for Newborn Puppies Step 43]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-newborn-puppy/v4-728px-Care-for-Newborn-Puppies-Step-43-Version-3.tkanimals.com.webp)
 
