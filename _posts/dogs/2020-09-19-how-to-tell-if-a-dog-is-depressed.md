@@ -3,7 +3,7 @@ layout: post
 title: "How To Recognize The Signs Of A Depressed Dog (with Photo)?"
 summary: Just like humans, dogs are susceptible to depression. Depression is often caused by changes in lifestyle habits, such as losing a companion, moving a house or adding a new member in the home. Dogs with depression can have behavioral changes (lack of energy, walking around, anorexia) and body language (drooping of tail and ears). You need to recognize the signs of depression in order to take steps to help your dog recover.
 author: huynhtroc
-categories:gs ]
+categories: [Dogs ]
 tags: dog puppy depresseddog
 image: assets/images/blog/dogs/how-to-tell-if-a-dog-is-depressed/v4-728px-Tell-if-Your-Dog-Is-Depressed-Step-21-Version-2.jpg.webp
 beforetoc: "Just like humans, dogs are susceptible to depression. Depression is often caused by changes in lifestyle habits, such as losing a companion, moving a house or adding a new member in the home. Dogs with depression can have behavioral changes (lack of energy, walking around, anorexia) and body language (drooping of tail and ears). You need to recognize the signs of depression in order to take steps to help your dog recover."
