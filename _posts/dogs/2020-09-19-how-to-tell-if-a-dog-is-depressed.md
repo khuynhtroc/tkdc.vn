@@ -35,7 +35,7 @@ Normal cheerful dogs are full of energy. You go a long way, the dog can go four 
 - However, when depressed, your dog no longer pricks his ears to listen to your commands. Instead of getting excited about a walk in the park, your dog will tilt its head down and slowly follow you. When you stop to talk to others, the dog can sit or even lie down.
 - If you are depressed, your dog may switch from being active and energetic to being inactive and becoming lethargic.
 
-![Tell if Your Dog Is Depressed 3]({{ site.url }}/assets/images/blog/dogs/how-to-tell-if-a-dog-is-depressed/v4-728px-Tell-if-Your-Dog-Is-Depressed-Step-3-Version-3.jpg.webp)
+![Tell if Your Dog Is Depressed 3]({{ site.url }}/assets/images/blog/dogs/how-to-tell-if-a-dog-is-depressed/v4-728px-Tell-if-Your-Dog-Is-Depressed-Step-3-Version-4.jpg.webp)
 
 ### 3. Pay attention if the dog is pacing. 
 
