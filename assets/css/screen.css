@@ -899,3 +899,9 @@ iframe {
     opacity: 0;
     transition: opacity .25s;
 }
+
+
+.lead {
+    font-size: 1rem;
+    font-weight: 300;
+}
