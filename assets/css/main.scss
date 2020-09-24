@@ -120,11 +120,11 @@ html[data-theme="light"] {
 body {
     background-color: var(--main-background-color) !important;
     color: var(--main-text-color) !important;
-    font-feature-settings: "kern"on;
+    /*font-feature-settings: "kern"on;
     font-variant-numeric: oldstyle-nums;
     hanging-punctuation: first last;
     overflow-x:hidden;
-    overflow-y:scroll;
+    overflow-y:scroll;*/
 }
 
 .reactions-view {
