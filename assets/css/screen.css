@@ -339,7 +339,7 @@ span.post-read-more a:hover {
     font-size: 0.8rem;
     color: rgba(0, 0, 0, .44);
     margin-top: 50px;
-    /*margin-bottom: 62px;*/
+    /*margin-bottom: 62px;
     position: relative;
     background: #fff;
 }
@@ -942,4 +942,14 @@ iframe {
 .tofront {
     position: relative;
     z-index: 1;
+}
+.spanborder {
+    border-bottom: 1px solid #e8f3ec;
+    margin-bottom: 2rem;
+}
+.spanborder span {
+    border-bottom: 1px solid rgba(0,0,0,0.44);
+    display: inline-block;
+    padding-bottom: 20px;
+    margin-bottom: -1px;
 }
