@@ -925,3 +925,21 @@ iframe {
     font-weight: 300;
 
 }
+
+.bg-lightblue {
+    fill: #e8f3ec !important;
+}
+
+.jumbotron {
+    background-size: cover;
+    padding: 7rem 1rem;
+}
+
+.mb-2rem {
+    margin-bottom: 2rem;
+}
+
+.tofront {
+    position: relative;
+    z-index: 1;
+}
