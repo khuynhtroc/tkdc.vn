@@ -6,15 +6,6 @@ License: https://www.wowthemes.net/freebies-license/
 div.a2a_full_footer {display:none;}
 @media (min-width: 1920px) {
     html {font-size:17px;}
-    .container, .container-lg {    
-     width: 1280px;
-     max-width: 1280px;
-     }
-     h6,.h6 { 
-         font-size: 1.1rem; 
-     }
-     article {
-         font-size:1.24rem;
      }
      .topfirstimage {
          height:280px !Important;
@@ -30,10 +21,6 @@ footer {
 }
 .homefirstpage .main-loop .main-loop-card:nth-child(-n+5) {
     display:none !important;
-}
-.excerpt {
-    color: rgba(0,0,0,0.59);
-    margin-top:10px;
 }
 @media screen and (min-width:1500px) {
     html { font-size:18px; } /* Increase the font size on higher resolutions */
