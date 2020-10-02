@@ -5,7 +5,7 @@ summary: Taking care of a newborn kitten is hard work. Kittens need attention an
 author: phamhuong
 categories: [ Cats ]
 tags: cat catnewborn newbornkiiten
-image: assets/images/blog/dogs/how-to-recognize-a-dying-dog/v4-728px-Recognize-a-Dying-Dog-Step-16.jpg.webp
+image: assets/images/blog/cats/3-ways-to-tke-care-of-a-newborn-kitten/v4-728px-Care-for-Newborn-Kittens-Step-13.jpg.webp
 beforetoc: "Taking care of a newborn kitten is hard work. Kittens need attention and care throughout the day. When you have just adopted a few newborn cats, you will face difficult tasks. If the mother cat is still around, the mother cat can cover all the needs of the kittens."
 toc: true
 rating: 5
