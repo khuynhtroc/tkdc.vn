@@ -49,11 +49,10 @@ A good way to determine a kitten's age is to check for the appearance and develo
 - The kitten's baby teeth will crack out of the gums when the kitten is about 2-3 weeks old. The first teeth to emerge are usually the incisors. If you can't see the cat's teeth, you may be able to feel it by gently touching the cat's gums.
 - Your cat's temporary fangs will grow by the time the cat is 3-4 weeks old. These teeth are long and pointed, growing next to the incisors.
 - The temporary premolars begin to emerge from the gums in about 4-6 weeks. The premolars grow between the canines and molars.
-- If the cat already has all the teeth except for the molars, it is probably about 4 months old. The cat will then have:
-
--- 6 upper premolars and 6 lower incisors
--- 2 upper molars and 2 lower canines (next to the last two incisors)
--- 3 premolars on the front teeth
+- If the cat already has all the teeth except for the molars, it is probably about 4 months old. The cat will then have:<br>
+-- 6 upper premolars and 6 lower incisors<br>
+-- 2 upper molars and 2 lower canines (next to the last two incisors)<br>
+-- 3 premolars on the front teeth<br>
 -- 2 lower premolars
 
 ![Tell-How-Old-a-Kitten-Is-Step-5]({{ site.url }}/assets/images/blog/cats/how-to-know-the-age-of-a-kitten/v4-728px-Tell-How-Old-a-Kitten-Is-Step-5-Version-2.jpg.webp)
