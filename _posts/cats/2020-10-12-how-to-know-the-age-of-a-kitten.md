@@ -50,6 +50,7 @@ A good way to determine a kitten's age is to check for the appearance and develo
 - Your cat's temporary fangs will grow by the time the cat is 3-4 weeks old. These teeth are long and pointed, growing next to the incisors.
 - The temporary premolars begin to emerge from the gums in about 4-6 weeks. The premolars grow between the canines and molars.
 - If the cat already has all the teeth except for the molars, it is probably about 4 months old. The cat will then have:
+
 -- 6 upper premolars and 6 lower incisors
 -- 2 upper molars and 2 lower canines (next to the last two incisors)
 -- 3 premolars on the front teeth
@@ -129,8 +130,9 @@ At 4-6 months, your kitten will go through the "teenage" phase. Cats of this age
 
 ![Tell-How-Old-a-Kitten-Is-Step-13]({{ site.url }}/assets/images/blog/cats/how-to-know-the-age-of-a-kitten/v4-728px-Tell-How-Old-a-Kitten-Is-Step-13-Version-2.jpg.webp)
 
-### 3.3. Define the "teenage" stage. Cats 7 months or older are considered teenagers, and they will both grow in size and become more sexually mature. Note that females of this age can become pregnant if they are not spayed. With sexual maturity, cats also become more aggressiv
+### 3.3. Define the "teenage" stage. 
 
+Cats 7 months or older are considered teenagers, and they will both grow in size and become more sexually mature. Note that females of this age can become pregnant if they are not spayed. With sexual maturity, cats also become more aggressive:
 - Cats begin to challenge other cats for dominance at around 6 months of age. Young cats are more likely to bite than young and adult cats.
 - Bites are common in young cats, so be careful with cats in this age group.
 
