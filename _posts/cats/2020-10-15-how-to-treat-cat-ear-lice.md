@@ -4,7 +4,7 @@ title: "How to treat cat ear lice?"
 summary: Ear lice (Scientific name: Otodectes cynotis) are microscopic parasites that can cause ear infections in cats. They like to live in a dark, warm environment like the ear canal to eat the debris. Ear lice can be irritating and itchy, causing your cat to scratch her ears repeatedly. When cats are constantly scratching their ears, cats are susceptible to skin problems such as inflammation or swelling of the earlobes and should see the vet immediately. You should identify and treat the cat's ear lice quickly to avoid future problems and keep the cat healthy and happy.
 author: phamhuong
 categories: [ Cats ]
-tags: cat catnewborn newbornkiiten
+tags: cat catearlice
 image: assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-15-Version-2.jpg.webp
 beforetoc: "Ear lice (Scientific name: Otodectes cynotis) are microscopic parasites that can cause ear infections in cats. They like to live in a dark, warm environment like the ear canal to eat the debris. Ear lice can be irritating and itchy, causing your cat to scratch her ears repeatedly. When cats are constantly scratching their ears, cats are susceptible to skin problems such as inflammation or swelling of the earlobes and should see the vet immediately. You should identify and treat the cat's ear lice quickly to avoid future problems and keep the cat healthy and happy."
 toc: true
