@@ -5,7 +5,7 @@ summary: Ear lice (Scientific name: Otodectes cynotis) are microscopic parasites
 author: phamhuong
 categories: [ Cats ]
 tags: cat catnewborn newbornkiiten
-image: assets/images/blog/cats/3-ways-to-tke-care-of-a-newborn-kitten/v4-728px-Care-for-Newborn-Kittens-Step-13.jpg.webp
+image: assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-15-Version-2.jpg.webp
 beforetoc: "Ear lice (Scientific name: Otodectes cynotis) are microscopic parasites that can cause ear infections in cats. They like to live in a dark, warm environment like the ear canal to eat the debris. Ear lice can be irritating and itchy, causing your cat to scratch her ears repeatedly. When cats are constantly scratching their ears, cats are susceptible to skin problems such as inflammation or swelling of the earlobes and should see the vet immediately. You should identify and treat the cat's ear lice quickly to avoid future problems and keep the cat healthy and happy."
 toc: true
 rating: 5
@@ -16,7 +16,7 @@ permalink: /cats/how-to-treat-cat-ear-lice.html
 
 ## 1.	Identify the cat with ear lice
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-1]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-1-Version-3.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-1]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-1-Version-3.jpg.webp)
 
 ### 1.1 Pay attention if the earwax is too much. 
 
@@ -25,7 +25,7 @@ Ear lice often irritate the ear canal lining and cause increased secretion of ea
 - Cats secrete earwax as a mechanism against the effects of infection.
 - You may also notice an odor coming from the cat's ears.
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-2]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-2-Version-3.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-2]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-2-Version-3.jpg.webp)
 
 ### 1.2 Pay attention when the cat scratches and shakes its head. 
 
@@ -34,14 +34,14 @@ Ear lice can cause irritation that causes cats to constantly scratch their ears 
 - Cats with long-term ear lice are at risk for inflamed polyps (tumor-shaped lesions) in the ear canal, which will swell and bleed from the cat's constant scratching and scratching.
 - In addition, your cat's outer ear may become inflamed and drain, or the eardrum may tear and lead to an imbalance or other problems that require medical attention. 
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-3]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-3-Version-3.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-3]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-3-Version-3.jpg.webp)
 
 ### 1.3 Observe the cat's posture.
 
 Cats with ear lice often tilt their head to one side. These are general signs that your cat has an ear problem, not just the ear lice.
 - Regardless of the cause, it's a good idea to get your cat to the vet if it's constantly tilting its head to the side.
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-4]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-4-Version-3.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-4]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-4-Version-3.jpg.webp)
 
 ### 1.4 Check out other animals. 
 
@@ -49,7 +49,7 @@ If you have multiple pets and suspect that one has ear lice, you should check al
 - If you treat only each cat with ear lice, other cats are likely to carry this parasite but show no signs, so the lice can spread and re-infect.
 - If a pet has ear lice, treat all pets in the house to prevent the risk of infection.
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-5]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-5-Version-3.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-5]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-5-Version-3.jpg.webp)
 
 ### 1.5 Take your cat to the vet. 
 
@@ -60,20 +60,20 @@ If you notice any of these signs, you should take your cat to the vet. A veterin
 
 ## 2.	Treat ear lice with ear drops
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-6]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-6-Version-3.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-6]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-6-Version-3.jpg.webp)
 
 ### 2.1 Get medication for treatment. 
 
 After diagnosing and determining that the eardrum is not damaged, your veterinarian can prescribe ear drops that are safe and effective in killing the cat's ear lice.
 - Many pet stores sell over-the-counter lice treatments that are ineffective and can be harmful to cats. Ideally, use only medications recommended by your veterinarian.
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-7]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-7-Version-3.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-7]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-7-Version-3.jpg.webp)
 
 ### 2.2 Carefully read the medicine bottle label. 
 
 You should carefully read the instructions on how often to administer the drops on the label. The frequency and dosage of the ear drops depend on the medicine, but usually, you can administer it to a cat's ear once a day for 7-10 days. 
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-8]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-8-Version-2.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-8]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-8-Version-2.jpg.webp)
 
 ### 2.3 Prepare your cat's ears. 
 
@@ -81,7 +81,7 @@ Before you administer the drops to your cat, you should put all the necessary it
 - You will need a large towel spread over the table to prevent the cat from slipping, ear drops, and some cotton balls.
 - If possible, you can have your cat's keeper help you to keep your cat's drops two hands-frees.
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-9]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-9-Version-2.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-9]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-9-Version-2.jpg.webp)
 
 ### 2.4 Clean the cat's ears. 
 
@@ -89,7 +89,7 @@ Before you administer the drops, clean the cat's ears. It is advisable to consul
 - Buy an ear cleaner that is labeled as safe for the cat and follow the instructions.
 - Be careful if there is too much earwax in your cat's ears, as earwax can act like a cocoon that covers ear lice, making ear drops inaccessible.
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-10]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-10-Version-2.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-10]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-10-Version-2.jpg.webp)
 
 ### 2.5 Small pills.
 
@@ -97,14 +97,14 @@ Position the cat across from you and have someone gently press down on the cat's
 - Use your thumb and index finger to gently rub the cat's ears to let the drops through the wax and deeper into the ear canal. 
 - If your cat is resistant to the installation, wrap the cat in a towel to keep it still. 
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-11]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-11-Version-2.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-11]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-11-Version-2.jpg.webp)
 
 ### 2.6 Clean your ears.
 
 Use a cotton ball to wipe off any excess surface of the ear.
 - Do not push the cotton pad into the ear canal. If your cat moves while cleaning the ear, the cotton ball will easily go deep into the ear and cause injury.
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-12]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-12-Version-2.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-12]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-12-Version-2.jpg.webp)
 
 ### 2.7 Repeat drops according to the instructions. 
 
@@ -114,7 +114,7 @@ You should give the cat the drops every day for the allotted time. If your cat s
 
 ## 3.	Prevent re-infection of ear lice
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-13]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-13-Version-2.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-13]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-13-Version-2.jpg.webp)
 
 ### 3.1 Use Selamectin for all cats. 
 
@@ -122,13 +122,13 @@ Selamectin is a powerful parasitic control drug available for both cats and dogs
 - Selamectin helps prevent reinfection and protects other cats from parasitic infections.
 - You should apply Selamectin on the nape of the cat's nape. Do not apply Selamectin to cat ears.
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-14]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-14-Version-2.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-14]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-14-Version-2.jpg.webp)
 
 ### 3.2 Take the dog to the vet. 
 
 Selamectin is not licensed to treat ear lice in dogs. If your dog gets ear lice from a cat, you should see the vet for preventive treatment.
 
-[Get-Rid-of-Ear-Mites-in-a-Cat-Step-15]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-15-Version-2.jpg.webp)
+![Get-Rid-of-Ear-Mites-in-a-Cat-Step-15]({{ site.url }}/assets/images/blog/cats/how-to-treat-cat-ear-lice/v4-728px-Get-Rid-of-Ear-Mites-in-a-Cat-Step-15-Version-2.jpg.webp)
 
 ### 3.3 Protect the cat's paws. 
 
