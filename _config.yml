@@ -24,10 +24,10 @@ authors:
     web: https://tkanimals.com
     twitter: https://twitter.com/huynhtroc
     description: "Taking Care Animals! We can judge the heart of a man by his treatment of animals!"
-  john:
+  phamhuong:
     name: Phạm Thị Hương
     display_name: Phạm Hương    
-    avatar: 'assets/images/author/huongyka.jpg'
+    avatar: assets/images/author/huongyka.jpg
     gravatar: b1cc14991db7a456fcd761680bbc8f81
     email: phamthihuong2603@gmail.com
     web: https://tkanimals.com
