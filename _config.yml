@@ -27,12 +27,12 @@ authors:
   john:
     name: Phạm Thị Hương
     display_name: Phạm Hương    
-    avatar: 'assets/images/avatar.png'
+    avatar: 'assets/images/author/huongyka.jpg'
     gravatar: b1cc14991db7a456fcd761680bbc8f81
-    email: huynhnt135@gmail.com
+    email: phamthihuong2603@gmail.com
     web: https://tkanimals.com
     twitter: https://twitter.com/wowthemesnet
-    description: "This is the author box. Write a short description of the author here. You are currently previewing Mediumish demo, a Jekyll template compatible with Github pages."
+    description: "Taking Care Animals! We can judge the heart of a man by his treatment of animals!"
 
 # social links
 twitter_username: johndoe
