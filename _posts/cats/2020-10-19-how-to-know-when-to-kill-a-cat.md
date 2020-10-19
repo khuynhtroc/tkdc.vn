@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to know when to kill a cat"
-summary: Perhaps this is the toughest decision every cat owner has to face whether it's time to let his beloved four-legged friend go. This topic often hurts, but if you think about what's best for your pet, you need to make a ees rational decision. When deciding whether euthanasia is the right choice, you need to consider the cat's physical and mental condition and its overall quality of life.
+summary: Perhaps this is the toughest decision every cat owner has to face whether it's time to let his beloved four-legged friend go. This topic often hurts, but if you think about what's best for your pet, you need to make a rational decision. When deciding whether euthanasia is the right choice, you need to consider the cat's physical and mental condition and its overall quality of life.
 author: phamhuong
 categories: [ Cats ]
 tags: cat
