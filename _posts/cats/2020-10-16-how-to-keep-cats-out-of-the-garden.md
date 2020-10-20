@@ -34,7 +34,7 @@ Place wire mesh (available at home stores) on the ground before the plants sprou
 
 ![Keep-Cats-Out-of-a-Garden-Step-3]({{ site.url }}/assets/images/blog/cats/how-to-keep-cats-out-of-the-garden/v4-728px-Keep-Cats-Out-of-a-Garden-Step-3-Version-2.jpg.webp)
 
-### 1.3 Place the lattice fence on the ground.
+### 1.3 Place the lattice fence on the ground. 
 
 - Place the lattice fence on the ground before sowing the seeds. Gaps in the fence will make wandering cats lose interest in that area.
 - Press down lightly on the fence so that the soil partially covers the fence.
