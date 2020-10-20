@@ -1,6 +1,6 @@
 ---
 layout: default
-title: How To Take Care Of Your Dogs
+title: How To Take Care Of Your Dogs?
 permalink: "/dogs/"
 pagination:
     enabled: true
@@ -170,7 +170,7 @@ pagination:
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
 
-        {% for post in site.posts limit:6 %}
+        {% for post in paginator.posts %}
         
             {% include main-loop-card.html %}
         
