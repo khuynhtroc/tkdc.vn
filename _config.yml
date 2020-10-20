@@ -6,12 +6,22 @@ logo: 'assets/images/logo.png'
 favicon: 'favicon.ico'
 url: https://tkanimals.com
 baseurl: https://tkanimals.com
-allow_search_engine: false
-google_analytics: ''
+allow_search_engine: true
 disqus: 'demowebsite'
-mailchimp-list: 'https://wowthemes.us11.list-manage.com/subscribe/post?u=8aeb20a530e124561927d3bd8&amp;id=8c3d2d214b'
 include: ["_pages"]
 permalink: /:title/
+phone: "+84985629621"
+# paypal: ""
+google_verify: ""
+bing_verify: 
+google_analytics: "UA-108819307-5"
+google_tag_manager_id: "GTM-W3PFMBX"
+subcriber_url: ""
+# Build Settings
+markdown: "kramdown"
+highlighter: rouge
+encoding: "UTF-8"
+support_url: "https://khuynhtroc.github.io/tanbinhchi.vn/lien-he/"
 
 # Authors
 authors:
