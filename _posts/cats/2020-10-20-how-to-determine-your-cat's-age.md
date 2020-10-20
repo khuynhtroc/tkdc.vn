@@ -5,7 +5,7 @@ summary: Unless you are present at birth, determining a cat's age can be difficu
 author: phamhuong
 categories: [ Cats ]
 tags: cat
-image: assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-12-Version-3.jpg-Version-2.jpg.webp
+image: assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-12-Version-2.jpg.webp
 beforetoc: "Unless you are present at birth, determining a cat's age can be difficult. However, you can estimate your cat's age by identifying certain traits. As a cat gets older, its age will be reflected in its teeth, coat, and behavior. While your vet can give you the most accurate answer, you can still observe the signs for your cat's age."
 toc: true
 rating: 5
@@ -16,7 +16,7 @@ permalink: /cats/how-to-determine-your-cat's-age.html
 
 ## 1. Examination of hair and body
 
-![Know-Your-Cat's-Age-Step-1]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-1-Version-3.jpg-Version-3.jpg.webp)
+![Know-Your-Cat's-Age-Step-1]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-1-Version-3.jpg.webp)
 
 ### 1.1 Check the coat's thickness. 
 
@@ -25,7 +25,7 @@ Depending on your cat's age, the coat can be thick or thin. Usually, cats won't 
 - Weather can also affect the coat. Cat fur in summer will be thinner than in winter.
 - If your cat has a lot of hair loss, seek medical attention.
 
-![Know-Your-Cat's-Age-Step-2]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-2-Version-3.jpg-Version-3.jpg.webp)
+![Know-Your-Cat's-Age-Step-2]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-2-Version-3.jpg.webp)
 
 ### 1.2 Feel the smoothness of the cat's fur. 
 
@@ -34,7 +34,7 @@ The fur of a cat will vary slightly with age. By paying attention to those diffe
 - Older cats will usually have a more friable coat.
 - Older cats may also have faded patches.
 
-![Know-Your-Cat's-Age-Step-3]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-3-Version-3.jpg-Version-3.jpg.webp)
+![Know-Your-Cat's-Age-Step-3]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-3-Version-3.jpg.webp)
 
 ### 1.3 Pay attention to your cat's physique. 
 
@@ -45,14 +45,14 @@ The older the cat gets, the more activity levels change. Such changes can lead t
 
 ## 2. Observe the cat's behavior
 
-![Know-Your-Cat's-Age-Step-4]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-4-Version-3.jpg-Version-3.jpg.webp)
+![Know-Your-Cat's-Age-Step-4]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-4-Version-3.jpg.webp)
 
 ### 2.1 Pay attention to your cat's mood. Older cats tend to have limited vision and hearing, and often experience pain from arthritis. These conditions can affect your cat's mood. If you notice that your cat has the following behaviors, it could be evidence that the cat is sick or old or both:
 
 Your cat becomes overly aggressive when you come into contact with it.
 - Older cats may also be more fearful and restless.
 
-![Know-Your-Cat's-Age-Step-5]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-5-Version-3.jpg-Version-3.jpg.webp)
+![Know-Your-Cat's-Age-Step-5]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-5-Version-3.jpg.webp)
 
 ### 2.2 Observe how your cat uses the litter box. 
 
@@ -60,7 +60,7 @@ If your cat has trouble using the litter box, that could indicate a variety of p
 - Some health problems that can make it difficult for older cats to use the litter box include impaired vision, ulcerative colitis, kidney, or liver problems.
 - Stress can also keep your old cat from using the litter box. Create an environment as quiet as possible for your cat.
 
-![Know-Your-Cat's-Age-Step-6]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-6-Version-3.jpg-Version-3.jpg.webp)
+![Know-Your-Cat's-Age-Step-6]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-6-Version-3.jpg.webp)
 
 ### 2.3 Observe your cat's sleep cycle. In most cats, the older they are, the more they will sleep. You should keep an eye on when the cat goes to sleep, noticing changes as the cat gets older. 
 
@@ -69,7 +69,7 @@ Older cats can stay up all night and sleep all day. Older cats can also howl all
 
 ## 3. Observe the cat's eyes to determine the age
 
-![Know-Your-Cat's-Age-Step-7]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-7-Version-3.jpg-Version-2.jpg.webp)
+![Know-Your-Cat's-Age-Step-7]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-7-Version-2.jpg.webp)
 
 ### 3.1 See if the cat's eyes are blurred. 
 
@@ -77,7 +77,7 @@ As a cat gets older, the cat's eyes will often change from a clear, light to a d
 - A pair of bright and clear eyes will indicate that the cat is quite young.
 - Older cats may have blurred eyes due to age or cataracts.
 
-![Know-Your-Cat's-Age-Step-8]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-8-Version-3.jpg-Version-2.jpg.webp)
+![Know-Your-Cat's-Age-Step-8]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-8-Version-2.jpg.webp)
 
 ### 3.2 Check the iris. 
 
@@ -85,7 +85,7 @@ The iris is the colored part that surrounds the pupil. By examining the iris, yo
 - Younger cats have clean and even irises.
 - As your cat ages, the iris will become smaller, and the macular spots will appear and abnormal pigmentation spots.
 
-![Know-Your-Cat's-Age-Step-9]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-9-Version-3.jpg-Version-2.jpg.webp)
+![Know-Your-Cat's-Age-Step-9]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-9-Version-2.jpg.webp)
 
 ### 3.3 Watch for rust or tears. 
 
@@ -96,7 +96,7 @@ To check your cat's age and health, you can check the tear glands in your cat's 
 
 ## 4. Check the cat's teeth
 
-![Know-Your-Cat's-Age-Step-10]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-10-Version-3.jpg-Version-2.jpg.webp)
+![Know-Your-Cat's-Age-Step-10]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-10-Version-2.jpg.webp)
 
 ### 4.1 Count the cat's teeth. 
 
@@ -105,7 +105,7 @@ As cats age, their teeth will also undergo different growth stages. When the cat
 - Cats younger than four months old may not yet have molars.
 - Between 6 months and a year of age, your cat will likely have enough teeth. At this point, the cat's teeth are still white and show no signs of damage.
 
-![Know-Your-Cat's-Age-Step-11]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-11-Version-3.jpg-Version-2.jpg.webp)
+![Know-Your-Cat's-Age-Step-11]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-11-Version-2.jpg.webp)
 
 ### 4.2 Observe the yellow color on the cat's teeth. 
 
@@ -115,7 +115,7 @@ As your cat gets older, her teeth will also show signs of age. A set of yellow t
 - Between the ages of 5 and 10, the yellow color will become more pronounced.
 - By the time your cat is 10 years old or older, her teeth will be visibly yellow, and most of her teeth will be yellow.
 
-![Know-Your-Cat's-Age-Step-12]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-12-Version-3.jpg-Version-2.jpg.webp)
+![Know-Your-Cat's-Age-Step-12]({{ site.url }}/assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-12-Version-2.jpg.webp)
 
 ### 4.3 Check for signs of worn and broken teeth.
 
