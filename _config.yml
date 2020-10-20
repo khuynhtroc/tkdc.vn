@@ -10,12 +10,12 @@ allow_search_engine: true
 disqus: 'demowebsite'
 include: ["_pages"]
 permalink: /:title/
-phone: "+84985629621"
+phone: "+84973311246"
 # paypal: ""
-google_verify: ""
+google_verify: "dPdrAy8V07rbSaK3jMPre0FQ8fJ069pf-YXKV4zkyl4"
 bing_verify: 
-google_analytics: "UA-108819307-5"
-google_tag_manager_id: "GTM-W3PFMBX"
+google_analytics: "UA-180946428-1"
+google_tag_manager_id: ""
 subcriber_url: ""
 # Build Settings
 markdown: "kramdown"
