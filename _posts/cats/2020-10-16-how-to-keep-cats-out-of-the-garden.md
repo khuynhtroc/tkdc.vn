@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to keep cats out of the garden"
+title: "How to keep cats out of the garden?"
 summary: You love your garden - but unfortunately, it seems the entire cat population in the neighborhood loves your garden too. If you see cats using your garden as a toilet or nibbling on plants in your garden, you may be anxious to find a way to stop this mischief. You can choose to erect a fence, make your garden less attractive to cats, or scare them away. If all else fails, you may have to try to keep the peace and negotiate with the cats by setting aside an area for them to use at will.
 author: phamhuong
 categories: [ Cats ]

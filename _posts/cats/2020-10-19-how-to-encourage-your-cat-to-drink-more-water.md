@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to encourage your cat to drink more water"
+title: "How to encourage your cat to drink more water?"
 summary: We often assume that cats do not need to drink much, but it's important that domestic cats that eat commercial food always absorb enough water. Furthermore, preventing water deficiency is crucial if the cat has kidney and bladder problems. 
 author: phamhuong
 categories: [ Cats ]

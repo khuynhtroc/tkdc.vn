@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to calm a female cat to heat"
+title: "How to calm a female cat to heat?"
 summary: Unspayed female cats will go into heat every three to four weeks and they will get very loud! Cats are very likely to get pregnant in periods that can last up to 7 days. That means every three to four weeks, you are confronted by a loud cat with a spike in hormones. If you don't want your cat to have kittens, then the best solution is to take the cat to the vet for sterilization. However, if you want your cat to breed, then you will have to deal with behaviors that occur during her heat cycle, such as shrill calls and flirting. You will also have to find a way to keep the cat from becoming pregnant if you don't want more kittens.
 author: phamhuong
 categories: [ Cats ]

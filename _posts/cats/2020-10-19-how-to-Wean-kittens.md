@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Wean Kittens"
+title: "How to Wean Kittens?"
 summary: Like most mammals, kittens begin life by feeding on their mother's milk. Switching from breast milk to new food is called weaning. If your cat gives birth to kittens or if you adopt an orphan kitten, you need to know how to give the kitten the essentials and what to do to help the kitten through this critical phase.
 author: phamhuong
 categories: [ Cats ]

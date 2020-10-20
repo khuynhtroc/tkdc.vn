@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Calm Your Cat"
+title: "How to Calm Your Cat?"
 summary: There are many reasons you may need to calm your cat. They may not be used to walking or get stressed when your veterinarian checks them or gets groomed. There are several ways to help your cat calm down in stressful situations — with or without medication. You should do research to determine the right method for your pet.
 author: phamhuong
 categories: [ Cats ]

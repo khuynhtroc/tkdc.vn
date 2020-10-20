@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to prevent your cat from peeing in an unauthorized place"
+title: "How to prevent your cat from peeing in an unauthorized place?"
 summary: There are many reasons for cats to urinate in places they are not allowed. Cats may not defecate in the litter box when they are stressed, have health problems, or simply the litter tray is not cleaned regularly. Depending on the cause of the problem, you may need the help of a veterinarian.
 author: phamhuong
 categories: [ Cats ]

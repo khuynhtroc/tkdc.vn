@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to clean cat urine on wooden floor"
+title: "How to clean cat urine on wooden floor?"
 summary: If you have a cat, you may find some puddles of cat urine on the floor from time to time. Cat urine can stain wooden floors and leave a strong smell. Depending on your cat's age and the type of laminate flooring, you can use a variety of cleaning and preventive solutions to clean your cat's urine.
 author: phamhuong
 categories: [ Cats ]

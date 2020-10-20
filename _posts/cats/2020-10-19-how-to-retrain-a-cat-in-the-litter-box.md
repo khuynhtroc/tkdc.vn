@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Retrain a cat in the litter box"
+title: "How to Retrain a cat in the litter box?"
 summary: Is your cat refusing to go to the bathroom in the sandbox anymore? Understanding why your cat is not using the litter box is key to correcting her behavior. An underlying cause is often stress, such as changes that happen in the home. Health problems are another common culprit if your cat suddenly stops using the litter box, especially an older cat.
 author: phamhuong
 categories: [ Cats ]

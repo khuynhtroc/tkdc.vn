@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to get your kitten active and sleepy"
+title: "How to get your kitten active and sleepy?"
 summary: Taking care of a newborn kitten is hard work. Kittens need attention and care throughout the day. When you have just adopted a few newborn cats, you will face difficult tasks. If the mother cat is still around, the mother cat can cover all the needs of the kittens.
 author: phamhuong
 categories: [ Cats ]

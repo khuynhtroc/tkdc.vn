@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to make cat toys out of common objects"
+title: "How to make cat toys out of common objects?"
 summary: Cats need toys for exercise and entertainment. The best toys for your cat should simulate the skills your cat will need in the wild. Not all cats like toys, and some only like one toy. Finding a toy your cat likes can be expensive. The bright and colorful pet store toys are unnecessary and not necessarily good from the cat's perspective.
 author: phamhuong
 categories: [ Cats ]

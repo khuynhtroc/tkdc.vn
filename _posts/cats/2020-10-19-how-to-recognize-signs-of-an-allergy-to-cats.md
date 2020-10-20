@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to recognize signs of an allergy to cats"
+title: "How to recognize signs of an allergy to cats?"
 summary: Allergic reactions to cats and other pets vary in severity from child to child. If you have a cat, are planning to adopt a cat, or visit someone who has a cat, you first need to determine if your child is allergic to cats. Identifying the symptoms of a child's allergy can be a little difficult, but monitoring a child's reaction to a pet is an important step in protecting the health of the whole family.
 author: phamhuong
 categories: [ Cats ]
