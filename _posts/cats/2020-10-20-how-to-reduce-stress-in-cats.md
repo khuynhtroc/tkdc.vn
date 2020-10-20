@@ -55,7 +55,7 @@ Some cats become too close to their owners and try to get attention by communica
 
 Cats that encounter this condition cannot lie still and can move around non-stop, protecting their territory by observing any potential threats.
 
-![Reduce-Stress-in-Cats-Step-7]({{ site.url }}/assets/images/blog/cats/how-to-reduce-stress-in-cats/v4-728px-Reduce-Stress-in-Cats-Step-7-Version-6.jpg.webp)
+![Reduce-Stress-in-Cats-Step-7]({{ site.url }}/assets/images/blog/cats/how-to-reduce-stress-in-cats/v4-728px-Reduce-Stress-in-Cats-Step-7-Version-5.jpg.webp)
 
 ### 1.7 Note if the cat stays away from humans. 
 
