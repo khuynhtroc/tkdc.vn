@@ -103,9 +103,10 @@ Pay attention to plants that attract your cat's attention, then avoid keeping th
 
 ![Prevent-Cats-from-Eating-Plants-Step-13]({{ site.url }}/assets/images/blog/cats/ways-to-prevent-cats-from-eating-plants/v4-728px-Prevent-Cats-from-Eating-Plants-Step-13-Version-2.jpg.webp)!
 
-### 3.2 Avoid buying "cat magnet" plants. Cats cannot resist the yucca and will chew on them mercilessly. Zinnia and marigolds are other examples of "cat magnet" plants that you should avoid.
+### 3.2 Avoid buying "cat magnet" plants. 
 
-If you buy plants that your cat is interested in keeping indoors, place them on a high shelf where the cat cannot reach them. Make sure the cat is incapable of jumping on the shelf, otherwise it will bounce off and destroy your tree.
+Cats cannot resist the yucca and will chew on them mercilessly. Zinnia and marigolds are other examples of "cat magnet" plants that you should avoid.
+- If you buy plants that your cat is interested in keeping indoors, place them on a high shelf where the cat cannot reach them. Make sure the cat is incapable of jumping on the shelf, otherwise it will bounce off and destroy your tree.
 
 ![Prevent-Cats-from-Eating-Plants-Step-14]({{ site.url }}/assets/images/blog/cats/ways-to-prevent-cats-from-eating-plants/v4-728px-Prevent-Cats-from-Eating-Plants-Step-14-Version-2.jpg.webp)!
 
