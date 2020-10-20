@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Ways to Prevent Cats From Eating Plants"
-summary: Cats have a curious nature, so your favorite ornamental plants can give your little friend a huge appeal. Cats love to play with and even eat leaves, as well as dig the soil around plants. You shouldn't keep plants toxic to cats around your home - lilies are extremely toxic to cats, for example. But even if the bonsai is safe for cats, their behavior can harm or kill the plant! Fortunately, there are several methods you can take to minimize that damage.
+summary: Cats have a curious nature, so your favorite ornamental plants can give your little friend a huge appeal. Cats love to play with and even eat leaves, as well as dig the soil around plants. You shouldn't keep plants toxic to cats around your home lilies are extremely toxic to cats, for example. But even if the bonsai is safe for cats, their behavior can harm or kill the plant! Fortunately, there are several methods you can take to minimize that damage.
 author: phamhuong
 categories: [ Cats ]
 tags: cat
 image: assets/images/blog/cats/ways-to-prevent-cats-from-eating-plants/v4-728px-Prevent-Cats-from-Eating-Plants-Step-15-Version-2.jpg.webp
-beforetoc: "Cats have a curious nature, so your favorite ornamental plants can give your little friend a huge appeal. Cats love to play with and even eat leaves, as well as dig the soil around plants. You shouldn't keep plants toxic to cats around your home - lilies are extremely toxic to cats, for example. But even if the bonsai is safe for cats, their behavior can harm or kill the plant! Fortunately, there are several methods you can take to minimize that damage."
+beforetoc: "Cats have a curious nature, so your favorite ornamental plants can give your little friend a huge appeal. Cats love to play with and even eat leaves, as well as dig the soil around plants. You shouldn't keep plants toxic to cats around your home lilies are extremely toxic to cats, for example. But even if the bonsai is safe for cats, their behavior can harm or kill the plant! Fortunately, there are several methods you can take to minimize that damage."
 toc: true
 rating: 5
 permalink: /cats/ways-to-prevent-cats-from-eating-plants.html
