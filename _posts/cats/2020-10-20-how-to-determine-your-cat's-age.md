@@ -5,7 +5,7 @@ summary: Unless you are present at birth, determining a cat's age can be difficu
 author: phamhuong
 categories: [ Cats ]
 tags: cat
-image: assets/images/blog/cats/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-12-Version-3.jpg-Version-2.jpg.webp
+image: assets/images/blog/cats/how-to-determine-your-cat's-age/v4-728px-v4-728px-Know-Your-Cat's-Age-Step-12-Version-3.jpg-Version-2.jpg.webp
 beforetoc: "Unless you are present at birth, determining a cat's age can be difficult. However, you can estimate your cat's age by identifying certain traits. As a cat gets older, its age will be reflected in its teeth, coat, and behavior. While your vet can give you the most accurate answer, you can still observe the signs for your cat's age."
 toc: true
 rating: 5
