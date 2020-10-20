@@ -5,7 +5,7 @@ summary: Many cities often have a lot of feral cats. In the United States alone,
 author: phamhuong
 categories: [ Cats ]
 tags: cat
-image: assets/images/blog/cats/how-to-befriend-a-stray-cat/v4-728px-Befriend-a-Wild-Cat-or-Kitten-Step-9-Version-3.webp
+image: assets/images/blog/cats/how-to-befriend-a-stray-cat/v4-728px-Befriend-a-Wild-Cat-or-Kitten-Step-9-Version-3.jpg.webp
 beforetoc: "Many cities often have a lot of feral cats. In the United States alone, it is estimated that more than 70 million cats roam. Many municipalities are unable or unwilling to take any action other than capturing and destroying them due to a lack of time, budget, and disinterest. There are very few resources available to rescue feral cats, and they are at risk of death from injury, disease, and lack of nutrition, so you may feel the need to help them out. This process takes time, so be very patient. However, this can also provide a sense of satisfaction in bonding with and helping a struggling cat."
 toc: true
 rating: 5
