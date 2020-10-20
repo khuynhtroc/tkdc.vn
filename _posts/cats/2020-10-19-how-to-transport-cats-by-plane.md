@@ -5,7 +5,7 @@ summary: Air transport of pets is generally not recommended unless absolutely ne
 author: phamhuong
 categories: [ Cats ]
 tags: cat
-image: assets/images/blog/cats/how-to-transport-cats-by-plane/v4-728px-Transport-Cats-by-Plane-Step-23.webp
+image: assets/images/blog/cats/how-to-transport-cats-by-plane/v4-728px-Transport-Cats-by-Plane-Step-1-Version-2.jpg.webp
 beforetoc: "Air transport of pets is generally not recommended unless absolutely necessary. Furthermore, trips like these can jeopardize “indented” animals such as bulldogs and Persian cats as they may have trouble breathing in flight due to the flow. restrictive gas as well as stress. However, if you are moving to a new country and need to bring your cat with you, there is no way to bring them on the plane. There have been many horror stories about transporting cats on airplanes, but with careful preparation, your little friends can return home safely and intact."
 toc: true
 rating: 5

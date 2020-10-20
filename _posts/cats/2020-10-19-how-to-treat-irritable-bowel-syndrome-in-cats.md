@@ -5,7 +5,7 @@ summary: Irritable Bowel Syndrome, also known as Inflammatory Bowel Disease, is 
 author: phamhuong
 categories: [ Cats ]
 tags: cat
-image: assets/images/blog/cats/how-to-make-cat-toys-out-of-common-objects/v4-728px-Treat-Irritable-Bowel-Syndrome-in-Cats-Step-11.jpg.webp
+image: assets/images/blog/cats/how-to-make-cat-toys-out-of-common-objects/v4-728px-Treat-Irritable-Bowel-Syndrome-in-Cats-Step-1-Version-2.jpg.webp
 beforetoc: "Irritable Bowel Syndrome, also known as Inflammatory Bowel Disease, is one of the most common causes of digestive problems in cats. Irritable bowel syndrome is often identified by frequent bouts of diarrhea, vomiting, and abdominal pain. A combination of approaches is needed to treat irritable bowel syndrome in cats, including medication, dietary adjustments, and long-term lifestyle changes."
 toc: true
 rating: 5

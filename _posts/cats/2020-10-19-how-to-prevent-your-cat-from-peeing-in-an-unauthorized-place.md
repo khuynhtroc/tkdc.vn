@@ -5,7 +5,7 @@ summary: There are many reasons for cats to urinate in places they are not allow
 author: phamhuong
 categories: [ Cats ]
 tags: cat
-image: assets/images/blog/cats/how-to-train-your-cat-to-stop-behaving-badly/v4-728px-Keep-Your-Cat-from-Urinating-Where-It-Shouldn't-Step-16.jpg.webp
+image: assets/images/blog/cats/how-to-train-your-cat-to-stop-behaving-badly/v4-728px-Keep-Your-Cat-from-Urinating-Where-It-Shouldn't-Step-1-Version-2.jpg.webp
 beforetoc: "There are many reasons for cats to urinate in places they are not allowed. Cats may not defecate in the litter box when they are stressed, have health problems, or simply the litter tray is not cleaned regularly. Depending on the cause of the problem, you may need the help of a veterinarian. There are many things you can do to encourage your cat to pee in the litter box instead of on the carpet or furniture. You can try using a new style tray, cleaning the tray more often, playing with the cat near the tray, and taking steps to keep the cat from peeing outside of the tray. Read on to learn more about how to prevent your cat from peeing in places not intended for it."
 toc: true
 rating: 5
