@@ -16,7 +16,7 @@ permalink: /cats/how-to-clean-cat-urine-on-wooden-floor.html
 
 ## 1. Clean wooden floors
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-1]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-1-Version-3.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-1]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-1-Version-3.jpg.webp)
 
 ###  1.1 Wipe away the puddle of cat urine. 
 
@@ -24,19 +24,19 @@ If it is a new puddle of urine, use an absorbent rag to absorb the water. Use en
 - You can also use a paper towel, but the number of towels should be enough to dry as much as possible.
 - Have a rag ready until your cat is no longer peeing outside of the litter box.
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-2]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-2-Version-3.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-2]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-2-Version-3.jpg.webp)
 
 ###  1.2 Choose the right detergent. 
 
 There are many types of cleaning chemicals on the market. It is best to find out which chemicals are most effective depending on the type of laminate flooring and the degree of damage. Test the product on a hidden area of ​​the laminate floor before applying all the stain; Your best bet is to make sure the cleaning product is safe for the finish on the floor surface.
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-3]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-3-Version-3.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-3]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-3-Version-3.jpg.webp)
 
 ###  1.3 Use a detergent specifically formulated to treat pet urine. 
 
 Some products such as Nature's Miracle and Urine Gone are recommended by some websites, as these will remove odors and prevent your cat from peeing in the same place, but will leave a musty smell if not cleaned later. there.
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-4]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-4.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-4]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-4.jpg.webp)
 
 ###  1.4 Use 3% hydrogen peroxide and water. 
 
@@ -45,26 +45,26 @@ Wet a rag or paper towel with a mixture of hydrogen peroxide, then cover the sta
 - After a few hours, you can use an absorbent material like baking soda or cat litter to remove any liquid from the floor. First, remove a paper towel, then sprinkle absorbent material on the stain. Look for a product that both absorbs and deodorizes such as baking soda or cat litter. 
 - Once the moisture and smell of your urine have been absorbed, you can wipe away the absorbent material or baking soda and let it dry.
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-5]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-5.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-5]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-5.jpg.webp)
 
 ###  1.5 Use a stronger mixture of hydrogen peroxide with a few drops of dish soap and a pinch of baking soda.
 
 For relatively small stains, be sure to only pour hydrogen peroxide onto the correct stain, test every 10 minutes, and dry as soon as the stain is gone.
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-6]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-6.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-6]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-6.jpg.webp)
 
 ###  1.6 Use a two-component peroxide wood bleaching agent, commonly known as "A / B" bleach leaves. 
 
 This is a two-component bleach - hydrogen peroxide and sodium hydroxide. This bleach works to remove all colors of wood, which is also a disadvantage of two-component wood bleach.
 - Wood bleach has very specific instructions. The two components of the product are mixed together. You should read the manufacturer's instructions and warnings, as these chemicals are very strong. It is best to use rubber gloves and goggles when working while keeping the room well ventilated.
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-7]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-7.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-7]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-7.jpg.webp)
 
 ###  1.7 Make a warm water solution with 25-30% white vinegar as an alternative to commercial cleaning products. 
 
 Vinegar helps neutralize the ammonia that creates an odor in your cat's urine. This solution is also better for the environment than harsh chemicals.
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-8]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-8.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-8]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-8.jpg.webp)
 
 ###  1.8 Paint the wooden floor. 
 
@@ -74,7 +74,7 @@ Cat urine can be absorbed into the wood for a long time, which should be removed
 - Contact the company that sells laminate flooring to you, as they often provide a painted surface correction pen that can help you restore the details you want. 
 - Consider applying another coat of polish to the floor once you have cleaned and repainted it to prevent other problems that could cause cat urine to seep onto the floor below.
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-9]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-9.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-9]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-9.jpg.webp)
 
 ###  1.9 Repeat the steps for floor cleaning. 
 
@@ -84,14 +84,14 @@ You may need to rework several times to completely remove the stain. If you smel
 
 ## 2. Prevent your cat from urinating in the wrong place
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-10]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-10.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-10]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-10.jpg.webp)
 
 ###  2.1 Know the cause of your cat's pee. 
 
 There are two causes of a cat's urination: to mark territory by spreading a small amount of urine in many places, or by leaving urine in large puddles. When peeing, cats often look for a wide surface area, which is why a floor surface is a perfect target.
 - If you have a lot of cats, you need to provide them with separate areas. 
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-11]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-11.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-11]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-11.jpg.webp)
 
 ###  2.2 Give your cat a sense of peace of mind in its territory. 
 
@@ -101,7 +101,7 @@ Cats will mark their territory with urine more often if they feel the need to cl
 - Be especially careful when the cat is in a new environment. Treat your cat's peeing behavior before it becomes a routine.
 - Attach your motion sensor to your lawn sprinkler and place it near windows or doors to keep other cats out of your home.
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-12]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-12.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-12]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-12.jpg.webp)
 
 ###  2.3 Choose the right litter box for your cat. 
 
@@ -109,14 +109,14 @@ Cats are naturally very clean and picky, so providing a clean and comfortable sa
 - Do not use covered sandboxes. Sandboxes like this can make your cat feel besieged, and will also retain the smell inside the box as the cover prevents outside air from circulating into the box to dry the sand. If you have a lot of cats in your household, the covered sandbox will also limit your cat's ability to escape against another cat. Keep this in mind as your cat can avoid using the litter box if it feels ambushed inside. 
 - Make sure the edge of the box is not too high for the cat to walk through. This is especially important for older cats. 
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-13]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-13.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-13]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-13.jpg.webp)
 
 ###  2.4 A rule to remember is that the number of litter boxes should be equal to the number of cats plus one. 
 
 So remember the equation 1 cat = 2 boxes, 3 cats = 4 boxes, and so on.
 - If your house has multiple floors, you should put a sandbox on each floor. Come to think of it, when you're on the fifth floor, would you like to go down to the first floor to pee?
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-14]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-14.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-14]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-14.jpg.webp)
 
 ###  2.5 Choose the correct location to place the sandbox. 
 
@@ -125,7 +125,7 @@ Make sure the litter box is in a convenient location for your cat. Not the locat
 - If you have a lot of cats in your home, make sure that the sandboxes are spread out over the place. Don't put the litter boxes in the same room, as you probably don't want your cat to avoid the litter box just to avoid another cat. Set a sandbox in each area of ​​your cat's favorites.
 - Make sure each cat in the house has a box of sand and one more. If you only have one cat and your home has multiple floors, you should put a sandbox on each floor. 
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-15]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-15.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-15]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-15.jpg.webp)
 
 ###  2.6 Keep the sandbox clean. 
 
@@ -136,7 +136,7 @@ At the very least, you should discard your cat's waste in the sandbox twice a da
 - Make sure the amount of sand in the box is about 7.5 cm thick and replenish it periodically after each cleaning. 
 - Beware of high-tech self-cleaning sandboxes, as they have many drawbacks. These can scare your cat or become clogged easily. Its main downside is that you cannot monitor the cat's health, as it clears any large lumps before you have a chance to check it out.
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-16]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-16.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-16]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-16.jpg.webp)
 
 ###  2.7 Make your cat comfortable. 
 
@@ -144,7 +144,7 @@ There are many factors that can stress your cat and avoid using a sandbox, inclu
 - Watch for interactions in a home that has multiple cats. Conflict can cause problems with the cat's pee, especially if the conflict occurs near the sandbox's location that causes the cat to associate the litter box with bad memories.
 - Don't punish the cat for peeing outside of the sandbox. Not only does the punishment make your cat afraid of you, but it also makes him think he's having trouble urinating. Find out why your cat pee outside of the litter box, as punishment, will only have the opposite effect. 
 
-![Remove-Cat-Urine-from-Wood-Floors-Step-17]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-17.jpg.webp)!
+![Remove-Cat-Urine-from-Wood-Floors-Step-17]({{ site.url }}/assets/images/blog/cats/how-to-clean-cat-urine-on-wooden-floor/v4-728px-Remove-Cat-Urine-from-Wood-Floors-Step-17.jpg.webp)
 
 ###  2.8 Consult with a veterinarian. 
 

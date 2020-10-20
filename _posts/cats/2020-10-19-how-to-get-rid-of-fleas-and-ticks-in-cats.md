@@ -16,7 +16,7 @@ permalink: /cats/how-to-get-rid-of-fleas-and-ticks-in-cats.html
 
 ## 1. Identify and kill fleas in cats
 
-![Kill-Fleas-and-Ticks-on-Cats-Step-1]({{ site.url }}/assets/images/blog/cats/how-to-get-rid-of-fleas-and-ticks-in-cats/v4-728px-Kill-Fleas-and-Ticks-on-Cats-Step-1-Version-3.jpg.webp)!
+![Kill-Fleas-and-Ticks-on-Cats-Step-1]({{ site.url }}/assets/images/blog/cats/how-to-get-rid-of-fleas-and-ticks-in-cats/v4-728px-Kill-Fleas-and-Ticks-on-Cats-Step-1-Version-3.jpg.webp)
 
 ### 1.1 Learn about the shape of the flea. 
 
@@ -207,7 +207,7 @@ Remove all people and pets from the room (including cats, birds, or reptiles). C
 - Many types of ticks do not live in the home. But the dog brown tick can live indoors.
 
 > Warning
-- Find out the chemicals to avoid. Organic phosphorus compounds, as well as tetrachlorvinphos, are used in some flea killers. They are labeled "potentially carcinogenic in humans" and should be avoided. [35]
+- Find out the chemicals to avoid. Organic phosphorus compounds, as well as tetrachlorvinphos, are used in some flea killers. They are labeled "potentially carcinogenic in humans" and should be avoided.
 
 > Other languages
 - English: Kill Fleas and Ticks on Cats Español: matar las pulgas y las garrapatas en los gatos Português: Matar Pulgas e Carrapatos I Gatos Deutsch: Flöhe und Zecken auf Katzen töten Italiano: Uccidere Pulci e Zecche sui Gatti Français: débarrasser son chat des puces et tiques Русский: избавиться от блох и клещей у кошек Nederlands: Je kat ontdoen van vlooien en teken 中文:去除 猫 身上 的 跳蚤 和 蜱 虫 Bahasa Indonesia: Menghilangkan Kutu pada Kucing Čeština: Jak zabít blechy a klíšťata u koček 한국어: 고양이 몸 의 벼룩 과 진드기 제거 하는 방법
