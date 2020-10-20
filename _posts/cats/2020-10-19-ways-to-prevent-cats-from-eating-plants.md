@@ -12,7 +12,7 @@ rating: 5
 permalink: /cats/ways-to-prevent-cats-from-eating-plants.html
 ---
 
-> Cats have a curious nature, so your favorite ornamental plants can give your little friend a huge appeal. Cats love to play with and even eat leaves, as well as dig the soil around plants. You shouldn't keep plants toxic to cats around your home - lilies are extremely toxic to cats, for example. But even if the bonsai is safe for cats, their behavior can harm or kill the plant! Fortunately, there are several methods you can take to minimize that damage.
+> Cats have a curious nature, so your favorite ornamental plants can give your little friend a huge appeal. Cats love to play with and even eat leaves, as well as dig the soil around plants. You shouldn't keep plants toxic to cats around your home lilies are extremely toxic to cats, for example. But even if the bonsai is safe for cats, their behavior can harm or kill the plant! Fortunately, there are several methods you can take to minimize that damage.
 
 ## 1. Prevent Plants Damaging Behavior
 
