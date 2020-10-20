@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to deal with a wandering cat?"
-summary: 
+summary: It is hard to tell if a cat on the street is a stray cat, a stray cat, or just a cat walking around its neighborhood. You can save the life of a wandering pet with compassion and help it reunite with its family.
 author: phamhuong
 categories: [ Cats ]
 tags: cat
