@@ -16,7 +16,7 @@ pagination:
 <div class="row remove-site-content-margin">
     
     <!-- latest post -->
-    {% assign latest_post = site.categories.cats[0] %}
+    {% assign latest_post = site.posts[0] %}
     <div class="col-md-6">
     <div class="card border-0 mb-4 box-shadow">   
     <a href="{{site.baseurl}}{{latest_post.url}}">
@@ -48,7 +48,7 @@ pagination:
     <div class="col-md-6">
         
         <!-- second latest post -->
-        {%- assign second_post = site.categories.cats[1] -%}        
+        {%- assign second_post = site.posts[1] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if second_post.image %}
                 <div class="col-md-4">
@@ -75,7 +75,7 @@ pagination:
             </div>
         
         <!-- third latest post -->
-        {%- assign third_post = site.categories.cats[2] -%}        
+        {%- assign third_post = site.posts[2] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if third_post.image %}
                 <div class="col-md-4">
@@ -102,7 +102,7 @@ pagination:
             </div>
         
         <!-- fourth latest post -->
-        {%- assign fourth_post = site.categories.cats[3] -%}        
+        {%- assign fourth_post = site.posts[3] -%}        
         <div class="mb-3 d-flex align-items-center">                
                 {% if fourth_post.image %}
                 <div class="col-md-4">
@@ -170,7 +170,7 @@ pagination:
         <h4 class="font-weight-bold spanborder"><span>All Stories</span></h4>
         
 
-        {% for post in paginator.site.posts %}
+        {% for post in paginator.posts limit: 6 %}
         
             {% include main-loop-card.html %}
         
