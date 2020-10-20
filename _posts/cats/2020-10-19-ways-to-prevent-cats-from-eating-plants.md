@@ -45,8 +45,9 @@ For example, if you spray the cat with water or scold the cat, it will associate
 
 ![Prevent-Cats-from-Eating-Plants-Step-5]({{ site.url }}/assets/images/blog/cats/ways-to-prevent-cats-from-eating-plants/v4-728px-Prevent-Cats-from-Eating-Plants-Step-5-Version-3.jpg.webp)!
 
-### 1.5 Cover the plant with offensive material. Place foil around the base of the plant, or the plastic carpet protector with the spiky side facing up. Your cat may not like to walk on an annoying surface to get to the plants.
+### 1.5 Cover the plant with offensive material. 
 
+Place foil around the base of the plant, or the plastic carpet protector with the spiky side facing up. Your cat may not like to walk on an annoying surface to get to the plants.
 
 ![Prevent-Cats-from-Eating-Plants-Step-6]({{ site.url }}/assets/images/blog/cats/ways-to-prevent-cats-from-eating-plants/v4-728px-Prevent-Cats-from-Eating-Plants-Step-6-Version-3.jpg.webp)!
 
