@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "How to discipline your cat?"
-summary: When you love your cat so much, it can be difficult to discipline him. Even if a cat is spoiled, it can be so cute that you don't want to yell or point out where it is wrong. There may be times when cats drive you crazy, but all attempts to discipline your cat quickly fall apart. Even, you are confused "do not know if you are the owner of it, or is it your owner?" You can teach your cat to behave obediently if you use the right methods.
+summary: When you love your cat so much, it can be difficult to discipline him. Even if a cat is spoiled, it can be so cute that you don't want to yell or point out where it is wrong. There may be times when cats drive you crazy, but all attempts to discipline your cat quickly fall apart.
 author: phamhuong
 categories: [ Cats ]
 tags: cat
 image: assets/images/blog/cats/how-to-discipline-your-cat/v4-728px-Discipline-Cats-Step-15.jpg.webp
-beforetoc: "When you love your cat so much, it can be difficult to discipline him. Even if a cat is spoiled, it can be so cute that you don't want to yell or point out where it is wrong. There may be times when cats drive you crazy, but all attempts to discipline your cat quickly fall apart. Even, you are confused "do not know if you are the owner of it, or is it your owner?" You can teach your cat to behave obediently if you use the right methods."
+beforetoc: "When you love your cat so much, it can be difficult to discipline him. Even if a cat is spoiled, it can be so cute that you don't want to yell or point out where it is wrong. There may be times when cats drive you crazy, but all attempts to discipline your cat quickly fall apart."
 toc: true
 rating: 5
 permalink: /cats/how-to-discipline-your-cat.html
