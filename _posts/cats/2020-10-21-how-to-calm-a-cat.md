@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "How to calm a cat?"
-summary: Whether you love cats or not, you won't want to deal with an angry and sad cat. If stressed, your cat may experience behavior problems, such as refusing to use litter trays. Cats can be agitated for a variety of reasons: moving, seeing the vet, hearing thunder, strangers in the house, strange cats showing up outside, or more. If your cat is so agitated that it will growl, yell, or run around the room frantically to find shelter, they need help regaining their spirits. You can start calming your cat by taking control of her surroundings and providing some privacy. If that doesn't work, talk to your veterinarian about health remedies that may be helpful for your cat.
+summary: Whether you love cats or not, you won't want to deal with an angry and sad cat. If stressed, your cat may experience behavior problems, such as refusing to use litter trays. Cats can be agitated for a variety of reasons: moving, seeing the vet, hearing thunder, strangers in the house, strange cats showing up outside, or more. If your cat is so agitated that it will growl, yell, or run around the room frantically to find shelter, they need help regaining their spirits.
 author: phamhuong
 categories: [ Cats ]
 tags: cat
 image: assets/images/blog/cats/how-to-calm-a-cat/v4-728px-Calm-a-Cat-Step-1-Version-2.jpg.webp
-beforetoc: "Whether you love cats or not, you won't want to deal with an angry and sad cat. If stressed, your cat may experience behavior problems, such as refusing to use litter trays. Cats can be agitated for a variety of reasons: moving, seeing the vet, hearing thunder, strangers in the house, strange cats showing up outside, or more. If your cat is so agitated that it will growl, yell, or run around the room frantically to find shelter, they need help regaining their spirits. You can start calming your cat by taking control of her surroundings and providing some privacy. If that doesn't work, talk to your veterinarian about health remedies that may be helpful for your cat."
+beforetoc: "Whether you love cats or not, you won't want to deal with an angry and sad cat. If stressed, your cat may experience behavior problems, such as refusing to use litter trays. Cats can be agitated for a variety of reasons: moving, seeing the vet, hearing thunder, strangers in the house, strange cats showing up outside, or more. If your cat is so agitated that it will growl, yell, or run around the room frantically to find shelter, they need help regaining their spirits."
 toc: true
 rating: 5
 permalink: /cats/how-to-calm-a-cat.html
