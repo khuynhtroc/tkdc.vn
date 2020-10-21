@@ -5,7 +5,7 @@ summary: Handling a cat may sound simple, but in reality, you have to do it the 
 author: phamhuong
 categories: [ Cats ]
 tags: cat
-image: assets/images/blog/cats/how-to-bathe-cats/v4-728px-v4-728px-Bathe-a-Kitten-Step-13.jpg.webp
+image: assets/images/blog/cats/how-to-bathe-cats/v4-728px-11713-1.jpg.webp
 beforetoc: "Handling a cat may sound simple, but in reality, you have to do it the right way to make the cat comfortable and not hurt. Make sure your cat feels safe and comfortable in your presence before attempting to pick it up. Some cats need a gentle approach compared to others, especially cats that are afraid of humans or have a medical condition like arthritis. After a successful approach, you can pick up the cat while supporting its body properly."
 toc: true
 rating: 5
