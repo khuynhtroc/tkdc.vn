@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to cuddle cats?"
-summary: Petting a cat may sound simple, but for children or those who don't spend a lot of time with cats, it's important to know what to or should not do while approaching and touching them. Touching the wrong position, improper force or speed can provoke some cats, causing them to bite or scratch. Experts recommend doing what your cat wants: wait for the cat's consent and let it take control of the interaction. There are several suitable places on your cat to cuddle: the area where your cat's sweat glands are concentrated. Spreading the scent into a familiar scent will make them feel happy and satisfied. Knowing where and where to pet and when to stay away can help you and your cat enjoys a time of interaction.
+summary: Petting a cat may sound simple, but for children or those who don't spend a lot of time with cats, it's important to know what to or should not do while approaching and touching them. Touching the wrong position, improper force or speed can provoke some cats, causing them to bite or scratch. Experts recommend doing what your cat wants: wait for the cat's consent and let it take control of the interaction. There are several suitable places on your cat to cuddle the area where your cat's sweat glands are concentrated. Spreading the scent into a familiar scent will make them feel happy and satisfied. Knowing where and where to pet and when to stay away can help you and your cat enjoys a time of interaction.
 author: phamhuong
 categories: [ Cats ]
 tags: cat
