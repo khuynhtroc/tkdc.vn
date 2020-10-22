@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "Ways to Raise Puppies"
-summary: Congratulations on choosing a new family member! But the problem is, "How do I take care of this puppy?" Remember that this article is intended only for people who are new to adopting, buying, or finding puppies that are at least 8 weeks old. Puppies usually wean at 8 weeks of age, and it is not good to separate them from their mothers before this time.
+summary: Remember that this article is intended only for people who are new to adopting, buying, or finding puppies that are at least 8 weeks old. Puppies usually wean at 8 weeks of age, and it is not good to separate them from their mothers before this time
 author: phamhuong
 categories: [ Dogs ]
 tags: dog
 image: assets/images/blog/dogs/ways-to-raise-puppies/v4-728px-Take-Care-of-Puppies-Step-1-Version-2.jpg.webp
-beforetoc: "Congratulations on choosing a new family member! But the problem is, "How do I take care of this puppy?" Remember that this article is intended only for people who are new to adopting, buying, or finding puppies that are at least 8 weeks old. Puppies usually wean at 8 weeks of age, and it is not good to separate them from their mothers before this time."
+beforetoc: "Remember that this article is intended only for people who are new to adopting, buying, or finding puppies that are at least 8 weeks old. Puppies usually wean at 8 weeks of age, and it is not good to separate them from their mothers before this time."
 toc: true
 rating: 5
 permalink: /dogs/ways-to-raise-puppies.html
