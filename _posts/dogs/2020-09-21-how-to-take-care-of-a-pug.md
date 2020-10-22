@@ -4,7 +4,7 @@ title: "How to take care of a pug (bulldog)?"
 summary: The pug (also known as a bulldog) is a very friendly, affectionate, and caring dog, just as many people love their pleated face. However, this breed needs special care in order to be healthy and happy. In addition to setting regular times for pug's eating, playing, and resting, you also need to regularly clean, trim and bathe them. This may take a little extra work, but you can fulfill all the special needs of a pug with a little attention.
 author: huynhtroc
 categories: [ Dogs ]
-tags: dog puppy dyingdog sticky
+tags: dog
 image: assets/images/blog/dogs/how-to-take-care-of-a-pug/v4-728px-Care-for-a-Pug-Step-8.jpg.webp
 beforetoc: "The pug (also known as a bulldog) is a very friendly, affectionate, and caring dog, just as many people love their pleated face. However, this breed needs special care in order to be healthy and happy. In addition to setting regular times for pug's eating, playing, and resting, you also need to regularly clean, trim and bathe them. This may take a little extra work, but you can fulfill all the special needs of a pug with a little attention."
 toc: true
