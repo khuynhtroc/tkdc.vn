@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "How to Teach a Puppy to Stop Biting?"
-summary: Biting is a natural part of the growth process in dogs, and puppies often get responses from other members of the "herd", including adult dogs, helping to teach them to refrain from biting. Allowing the puppy to bite without restraint may lead to behavior problems in adulthood; an adorable chew of a 5 kg puppy can become a serious bite of a 36 kg adult dog.
+summary: Biting is a natural part of the growth process in dogs, and puppies often get responses from other members of the herd, including adult dogs, helping to teach them to refrain from biting. Allowing the puppy to bite without restraint may lead to behavior problems in adulthood; an adorable chew of a 5 kg puppy can become a serious bite of a 36 kg adult dog.
 author: phamhuong
 categories: [ Dogs ]
 tags: dog
 image: assets/images/blog/dogs/how-to-teach-a-puppy-to-stop-biting/v4-728px-Get-Your-Puppy-to-Stop-Biting-Step-1-Version-4.jpg.webp
-beforetoc: "Biting is a natural part of the growth process in dogs, and puppies often get responses from other members of the "herd", including adult dogs, helping to teach them to refrain from biting. Allowing the puppy to bite without restraint may lead to behavior problems in adulthood; an adorable chew of a 5 kg puppy can become a serious bite of a 36 kg adult dog."
+beforetoc: "Biting is a natural part of the growth process in dogs, and puppies often get responses from other members of the herd, including adult dogs, helping to teach them to refrain from biting. Allowing the puppy to bite without restraint may lead to behavior problems in adulthood; an adorable chew of a 5 kg puppy can become a serious bite of a 36 kg adult dog."
 toc: true
 rating: 5
 permalink: /dogs/how-to-teach-a-puppy-to-stop-biting.html
