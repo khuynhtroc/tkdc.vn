@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "How to give your dog a drink?"
-summary: The Chihuahua is a small, fun, and friendly breed. [1] With extreme loyalty, [2] Chihuahuas easily form a special and lasting bond with their owners. If you know how to take care of your Chihuahua properly, not only can you help your dog stay healthy and happy, but also the relationship between you and your dog will be more bonding and sustainable.
+summary: Healthy dogs are usually in control of their water intake, even though this is not necessarily true for puppies and older dogs. Unless there are serious signs of health, your dog will most likely drink enough water after a few changes to his diet and bowl layout.
 author: phamhuong
 categories: [ Dogs ]
 tags: dog
 image: assets/images/blog/dogs/how-to-give-your-dog-a-drink/v4-728px-Make-Your-Dog-Drink-Water-Step-1-Version-2.jpg.webp
-beforetoc: "The Chihuahua is a small, fun, and friendly breed. [1] With extreme loyalty, [2] Chihuahuas easily form a special and lasting bond with their owners. If you know how to take care of your Chihuahua properly, not only can you help your dog stay healthy and happy, but also the relationship between you and your dog will be more bonding and sustainable."
+beforetoc: "Healthy dogs are usually in control of their water intake, even though this is not necessarily true for puppies and older dogs. Unless there are serious signs of health, your dog will most likely drink enough water after a few changes to his diet and bowl layout."
 toc: true
 rating: 5
 permalink: /dogs/how-to-give-your-dog-a-drink.html
