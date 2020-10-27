@@ -13,6 +13,14 @@ post_class: post-template
         <!-- Post Share -->
         <div class="col-md-2 pl-0">
             {% include share.html %}
+            <!-- Toc if any -->
+            {% if page.toc %}
+                <div class="toc mt-4 mb-4 lead">
+                    <h3 class="font-weight-bold">Summary</h3>
+                    {% include toc.html html=content %}
+                </div>
+            {% endif %}
+            <!-- End Toc -->
         </div>
 
         <!-- Post -->
