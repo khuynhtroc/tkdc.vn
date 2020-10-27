@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "How to cure dog sores?"
-summary: Scabies is a tick borne skin disease that affects many types of animals. In dogs, this is caused by one of three types of tiny ticks: Cheyletiella, Demodex or Sarcoptes. Each type of tick causes a different type of scabies with similar symptoms but different levels. Treatment options will vary depending on the type of scabies and the severity of the condition, so see your vet if you suspect that your dog has scabies. The veterinarian will examine, take a sample, prescribe medicine and conduct treatment. This article will help you understand more about how to treat scabies in dogs.
+summary: Scabies is a tick borne skin disease that affects many types of animals. In dogs, this is caused by one of three types of tiny ticks Cheyletiella, Demodex or Sarcoptes. Each type of tick causes a different type of scabies with similar symptoms but different levels. Treatment options will vary depending on the type of scabies and the severity of the condition, so see your vet if you suspect that your dog has scabies.
 author: phamhuong
 categories: [ Dogs ]
 tags: dog
 image: assets/images/blog/dogs/how-to-cure-dog-sores/v4-728px-Cure-Mange-in-Dogs-Step-5.jpg.webp
-beforetoc: "Scabies is a tick borne skin disease that affects many types of animals. In dogs, this is caused by one of three types of tiny ticks: Cheyletiella, Demodex or Sarcoptes. Each type of tick causes a different type of scabies with similar symptoms but different levels. Treatment options will vary depending on the type of scabies and the severity of the condition, so see your vet if you suspect that your dog has scabies. The veterinarian will examine, take a sample, prescribe medicine and conduct treatment. This article will help you understand more about how to treat scabies in dogs."
+beforetoc: "Scabies is a tick borne skin disease that affects many types of animals. In dogs, this is caused by one of three types of tiny ticks Cheyletiella, Demodex or Sarcoptes. Each type of tick causes a different type of scabies with similar symptoms but different levels. Treatment options will vary depending on the type of scabies and the severity of the condition, so see your vet if you suspect that your dog has scabies. The veterinarian will examine, take a sample, prescribe medicine and conduct treatment. This article will help you understand more about how to treat scabies in dogs."
 toc: true
 rating: 5
 permalink: /dogs/how-to-cure-dog-sores.html
