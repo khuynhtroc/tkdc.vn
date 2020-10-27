@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "How to Vaccinate Dogs?"
-summary: Obesity in dogs can significantly reduce their lifespan. An overweight dog is more prone to many diseases, such as diabetes, heart disease, cancer, and many other debilitating conditions. Because of carrying too much body weight, the obese dog's joints and back will have to increase activity, which can lead to arthritis. If your dog is overweight, try to lose weight as soon as possible.
+summary: You can save a lot of time, money and effort by vaccinating your dog at home. Just know the exact procedure and follow the basic instructions, and getting vaccinated at home becomes simpler and safer. However, you need to make sure your dog is healthy and get it checked out before getting vaccinated. Vaccines should also be properly stored and transported to prevent health problems for dogs.
 author: phamhuong
 categories: [ Dogs ]
 tags: dog
 image: assets/images/blog/dogs/how-to-vaccinate-dogs/v4-728px-Administer-a-Vaccine-to-a-Dog-Step-1-Version-2.jpg.webp
-beforetoc: "Obesity in dogs can significantly reduce their lifespan. An overweight dog is more prone to many diseases, such as diabetes, heart disease, cancer, and many other debilitating conditions. Because of carrying too much body weight, the obese dog's joints and back will have to increase activity, which can lead to arthritis. If your dog is overweight, try to lose weight as soon as possible."
+beforetoc: "You can save a lot of time, money and effort by vaccinating your dog at home. Just know the exact procedure and follow the basic instructions, and getting vaccinated at home becomes simpler and safer. However, you need to make sure your dog is healthy and get it checked out before getting vaccinated. Vaccines should also be properly stored and transported to prevent health problems for dogs."
 toc: true
 rating: 5
 permalink: /dogs/how-to-vaccinate-dogs.html
