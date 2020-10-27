@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "How to Train a Husky Dog?"
-summary: The Sibir or hereafter referred to as Husk is a beautiful, independent, active and intelligent breed. Although this breed has a gentle temperament and affection, training a Husky is not easy. Husky dogs have a pack habit, so they will always challenge your "leadership" position and your limit. Your husky will be destructive if not allowed to exercise. To avoid undesirable experiences of keeping a husky, it is important to understand his temper so that training is appropriate for all situations.
+summary: The Sibir or hereafter referred to as Husk is a beautiful, independent, active and intelligent breed. Although this breed has a gentle temperament and affection, training a Husky is not easy. Husky dogs have a pack habit, so they will always challenge your leadership position and your limit. Your husky will be destructive if not allowed to exercise. To avoid undesirable experiences of keeping a husky, it is important to understand his temper so that training is appropriate for all situations.
 author: phamhuong
 categories: [ Dogs ]
 tags: dog
