@@ -54,21 +54,21 @@ For many vaccines, you can get the first 2 shots 3-4 weeks apart to keep your im
 Check that the vaccine is properly transported and stored at the temperature on the label. You may have to mix the vaccines. If so, you will need to combine the 2 vaccines according to the directions on the label. After reconstitution, you will draw all the solution into the syringe and remove air bubbles by gently patting the surface of the syringe. You should point the needle upwards. [7]
 - Most vaccines need to be stored at room temperature in the refrigerator.
 
-![Administer-a-Vaccine-to-a-Dog-Step-6]({{ site.url }}/assets/images/blog/dogs/how-to-vaccinate-dogs/v4-728px-Administer-a-Vaccine-to-a-Dog-Step-6-Version.jpg.webp)
+![Administer-a-Vaccine-to-a-Dog-Step-6]({{ site.url }}/assets/images/blog/dogs/how-to-vaccinate-dogs/v4-728px-Administer-a-Vaccine-to-a-Dog-Step-6.jpg.webp)
 
 ### 2.2 Prepare your dog. 
 
 Make sure you wash your dog well and remove any dirt from the skin around the neck. Dog coat must be dry before vaccination. You will pull up the skin on the back of the dog's nape, creating an empty bag under the skin to inject the vaccine. [8]
 - Unlike human injections, you do not need to wipe the injection site clean with alcohol before giving a dog vaccination.
 
-![Administer-a-Vaccine-to-a-Dog-Step-7]({{ site.url }}/assets/images/blog/dogs/how-to-vaccinate-dogs/v4-728px-Administer-a-Vaccine-to-a-Dog-Step-7-Version.jpg.webp)
+![Administer-a-Vaccine-to-a-Dog-Step-7]({{ site.url }}/assets/images/blog/dogs/how-to-vaccinate-dogs/v4-728px-Administer-a-Vaccine-to-a-Dog-Step-7.jpg.webp)
 
 ### 2.3 Vaccination. 
 
 Place the syringe across the dog's back so that the bevel of the needle (the flat part of the needle) is along the pinched skin. Gently insert the needle into the skin, while pulling the syringe back together. Slowly push down on the syringe to inject the vaccine into the dog's body. [9]
 - If you see bleeding from the needle, you should inject it elsewhere. The bleeding from the needle indicates that you have punctured a blood vessel. You cannot inject the vaccine into a blood vessel.
 
-![Administer-a-Vaccine-to-a-Dog-Step-8]({{ site.url }}/assets/images/blog/dogs/how-to-vaccinate-dogs/v4-728px-Administer-a-Vaccine-to-a-Dog-Step-8-Version.jpg.webp)
+![Administer-a-Vaccine-to-a-Dog-Step-8]({{ site.url }}/assets/images/blog/dogs/how-to-vaccinate-dogs/v4-728px-Administer-a-Vaccine-to-a-Dog-Step-8.jpg.webp)
 
 ### 2.4 Pull out the needle. 
 
