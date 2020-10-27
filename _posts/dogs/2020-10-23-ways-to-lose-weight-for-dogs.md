@@ -25,13 +25,13 @@ Because the same breed can have many different body shapes, your dog's appearanc
 - When looking at your dog from the side, you need to notice a difference between the size of the chest and the belly. Your dog should have an easily recognizable waistline and its belly should be closer to the spine than the chest. [3]
 - A wide and flat back with a sagging belly can be a sign your dog is overweight. [4]
 
-![Help-Your-Dog-Lose-Weight-Step-2]({{ site.url }}/assets/images/blog/dogs/ways-to-lose-weight-for-dogs/v4-728px-Help-Your-Dog-Lose-Weight-Step-2-Version-2.jpg.webp)
+![Help-Your-Dog-Lose-Weight-Step-2]({{ site.url }}/assets/images/blog/dogs/ways-to-lose-weight-for-dogs/v4-728px-Help-Your-Dog-Lose-Weight-Step-2-Version-3.jpg.webp)
 
 ### 1.2 Do your dog's "rib check". 
 
 Another way to assess a dog's weight is through the "rib test". Place your hand on one or both of the dog's chest and try to feel its ribs. In a normal weight dog, you will not be able to see their ribs, but you will be able to touch and count each bone. If you are unable to do this, this is a sign that your dog is obese. [6]
 
-![Help-Your-Dog-Lose-Weight-Step-3]({{ site.url }}/assets/images/blog/dogs/ways-to-lose-weight-for-dogs/v4-728px-Help-Your-Dog-Lose-Weight-Step-3-Version-2.jpg.webp)
+![Help-Your-Dog-Lose-Weight-Step-3]({{ site.url }}/assets/images/blog/dogs/ways-to-lose-weight-for-dogs/v4-728px-Help-Your-Dog-Lose-Weight-Step-3-Version-3.jpg.webp)
 
 ### 1.3 Check the dog's weight. 
 
@@ -41,7 +41,7 @@ There are many online charts that can help you find out about your ideal weight 
 
 ## 2. Develop a weight loss plan
 
-![Help-Your-Dog-Lose-Weight-Step-4]({{ site.url }}/assets/images/blog/dogs/ways-to-lose-weight-for-dogs/v4-728px-Help-Your-Dog-Lose-Weight-Step-4-Version-2.jpg.webp)
+![Help-Your-Dog-Lose-Weight-Step-4]({{ site.url }}/assets/images/blog/dogs/ways-to-lose-weight-for-dogs/v4-728px-Help-Your-Dog-Lose-Weight-Step-4-Version-3.jpg.webp)
 
 ### 2.1 See a veterinarian. 
 
@@ -54,7 +54,7 @@ Once you have confirmed that your dog is obese, or if you are still unsure, it's
 Your dog can help you plan your dog's specific weight loss plan. This may include changing your dog's weight loss diet foods, using the right foods to reward your dog, adjusting his diet and feeding frequency, and increasing his / her feeding frequency. Intense exercise for dogs.
 - Your doctor can also conduct an assessment to see if your dog has any health problems that will make it difficult for you to follow a weight loss plan. [8]
 
-![Help-Your-Dog-Lose-Weight-Step-6]({{ site.url }}/assets/images/blog/dogs/ways-to-lose-weight-for-dogs/v4-728px-Help-Your-Dog-Lose-Weight-Step-6-Version-2.jpg.webp)
+![Help-Your-Dog-Lose-Weight-Step-6]({{ site.url }}/assets/images/blog/dogs/ways-to-lose-weight-for-dogs/v4-728px-Help-Your-Dog-Lose-Weight-Step-6-Version-3.jpg.webp)
 
 ### 2.3 Consider using weight loss pills in extreme cases. 
 
