@@ -1,12 +1,12 @@
 ---
 layout: post
 title: "How to Treat Dog Worms?"
-summary: There are 5 basic types of worms that dogs often get: filariasis and 4 types of intestinal parasitic worms, which are roundworm, tapeworm, hookworm and whipworm. Your veterinarian will know which worms are common in your area, and how to test and treat them. Dogs need specialized anthelmintic drugs and therapies, as many types of worms can kill dogs. The following article will guide you to recognize and treat 5 types of worms, although the initial symptoms are often difficult to detect and only manifest when the dog is heavily infected or for a long time.
+summary: There are 5 basic types of worms that dogs often get filariasis and 4 types of intestinal parasitic worms, which are roundworm, tapeworm, hookworm and whipworm. Your veterinarian will know which worms are common in your area, and how to test and treat them. Dogs need specialized anthelmintic drugs and therapies, as many types of worms can kill dogs. The following article will guide you to recognize and treat 5 types of worms, although the initial symptoms are often difficult to detect and only manifest when the dog is heavily infected or for a long time.
 author: phamhuong
 categories: [ Dogs ]
 tags: dog
 image: assets/images/blog/dogs/how-to-treat-dog-worms/v4-728px-Treat-Worms-in-Dogs-Step-1-Version-2.jpg.webp
-beforetoc: "There are 5 basic types of worms that dogs often get: filariasis and 4 types of intestinal parasitic worms, which are roundworm, tapeworm, hookworm and whipworm. Your veterinarian will know which worms are common in your area, and how to test and treat them. Dogs need specialized anthelmintic drugs and therapies, as many types of worms can kill dogs. The following article will guide you to recognize and treat 5 types of worms, although the initial symptoms are often difficult to detect and only manifest when the dog is heavily infected or for a long time."
+beforetoc: "There are 5 basic types of worms that dogs often get filariasis and 4 types of intestinal parasitic worms, which are roundworm, tapeworm, hookworm and whipworm. Your veterinarian will know which worms are common in your area, and how to test and treat them. Dogs need specialized anthelmintic drugs and therapies, as many types of worms can kill dogs. The following article will guide you to recognize and treat 5 types of worms, although the initial symptoms are often difficult to detect and only manifest when the dog is heavily infected or for a long time."
 toc: true
 rating: 5
 permalink: /dogs/how-to-treat-dog-worms.html
