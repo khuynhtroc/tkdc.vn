@@ -31,7 +31,7 @@ footer {
 }
 
 a {
-    color: #00ab6b;
+    color: #ff914d;
     transition: all 0.2s;
 }
 
@@ -221,7 +221,7 @@ section.recent-posts {
 
 .post-top-meta span {
     font-size: 0.9rem;
-    color: rgba(0, 0, 0, .44);
+    /*color: rgba(0, 0, 0, .44);*/
     display: inline-block;
 }
 
@@ -251,7 +251,7 @@ span.author-meta {
 
 span.post-date,
 span.post-read {
-    color: rgba(0, 0, 0, .44);
+    /*color: rgba(0, 0, 0, .44);*/
 }
 
 span.post-read-more {
@@ -524,14 +524,14 @@ ul.tags li {
 }
 
 ul.tags li a {
-    background: rgba(0, 0, 0, .05);
-    color: rgba(0, 0, 0, .6);
+    background: rgb(244 218 180);
+    /*color: rgba(0, 0, 0, .6);*/
     border-radius: 3px;
     padding: 5px 10px;
 }
 
 ul.tags li a:hover {
-    background: rgba(0, 0, 0, .07);
+    background: rgb(244 218 180);
     text-decoration: none;
 }
 
