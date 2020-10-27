@@ -16,7 +16,7 @@ permalink: /dogs/ways-to-take-care-of-dachshunds.html
 
 ## 1. Protect the dachshund's back
 
-Image titled ![Take-Care-of-a-Dachshund-Step-1]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-1-Version-2.jpg.webp) 1
+![Take-Care-of-a-Dachshund-Step-1]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-1-Version-2.jpg.webp) 1
 
 ### 1.1 Note that dachshunds are susceptible to disc herniation (IVDD). 
 
@@ -29,7 +29,7 @@ Like other small breeds of dogs, the dachshund has an increased risk of disc her
 - little or no food
 - loss of bladder and / or bowel control [1]
 
-Image titled ![Take-Care-of-a-Dachshund-Step-2]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-2-Version-2.jpg.webp) 2
+![Take-Care-of-a-Dachshund-Step-2]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-2-Version-2.jpg.webp) 2
 
 ### 1.2 Helps dachshund maintain a healthy body mass. 
 
@@ -39,14 +39,14 @@ Being overweight can put dachshunds at higher risk for IVDD, so you need to feed
 - Offer moderate snacks.
 - Consider giving dachshund weight maintenance foods if they're too fat.
 
-Image titled ![Take-Care-of-a-Dachshund-Step-3]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-3-Version-2.jpg.webp) 3
+![Take-Care-of-a-Dachshund-Step-3]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-3-Version-2.jpg.webp) 3
 
 ### 1.3 Learn how to carry a dachshund. 
 
 Correct handling of dogs helps to protect their back. You need to support the edge of the body with one hand and thread the other hand under the abdomen to support the dachshund's back.
 - Do not hold a dachshund with one hand or hold the paws or head.
 
-Image titled ![Take-Care-of-a-Dachshund-Step-4]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-4-Version-2.jpg.webp) 4
+![Take-Care-of-a-Dachshund-Step-4]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-4-Version-2.jpg.webp) 4
 
 ### 1.4 Help the dachshund dog up and down stairs. 
 
@@ -54,14 +54,14 @@ Climbing stairs increases the pressure on the dachshund's back and over time the
 - Install small gates to prevent dachshund from climbing up or down stairs.
 - Consider installing a ramp for a small staircase for daily commutes. [4]
 
-Tiêu đề ảnh ![Take-Care-of-a-Dachshund-Step-5]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-5-Version-2.jpg.webp) 5
+![Take-Care-of-a-Dachshund-Step-5]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-5-Version-2.jpg.webp) 5
 
 ### 1.5 Prevent dachshund from jumping onto furniture or high areas. 
 
 Running and jumping also puts pressure on the dachshund's back and increases the risk of IVDD. To eliminate this risk factor, do not let the dachshund jump high like a sofa or bed. If you want the dachshund to jump on your lap, you should actively lift them. Do not encourage your pet to jump on its own.
 - Consider placing some boards as a slope if you want the dachshund to be able to jump onto furniture when you're not at home. [5]
 
-Tiêu đề ảnh ![Take-Care-of-a-Dachshund-Step-6]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-6-Version-2.jpg.webp) 6
+![Take-Care-of-a-Dachshund-Step-6]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-6-Version-2.jpg.webp) 6
 
 ### 1.6 Use the harness to walk the dachshund. 
 
@@ -69,25 +69,25 @@ If your dog pulls around while you take him for a walk, he puts more pressure on
 
 ## 2. Train dachshund dogs
 
-Tiêu đề ảnh ![Take-Care-of-a-Dachshund-Step-7]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-7-Version-2.jpg.webp) 7
+![Take-Care-of-a-Dachshund-Step-7]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-7-Version-2.jpg.webp) 7
 
 ### 2.1 Take a short training session. 
 
 For best results, train your dachshund three times a day with five minutes each. Short training helps the dachshund stay focused. Regularity helps reinforce lessons for your pet. [7]
 
-Tiêu đề ảnh ![Take-Care-of-a-Dachshund-Step-8]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-8-Version-2.jpg.webp) 8
+![Take-Care-of-a-Dachshund-Step-8]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-8-Version-2.jpg.webp) 8
 
 ### 2.2 Reward good behavior. 
 
 To get your dachshund to obey a command, you need to reward the proper behavior as soon as it is done. For example, if you want the dachshund to sit down and they do, give him a treat and cuddle now to let him know he did a good thing. You should reward dachshunds every time you follow an order so they know that these are the behaviors you desire. [8]
 
-Tiêu đề ảnh ![Take-Care-of-a-Dachshund-Step-9]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-9-Version-2.jpg.webp) 9
+![Take-Care-of-a-Dachshund-Step-9]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-9-Version-2.jpg.webp) 9
 
 ### 2.3 Ignore bad behavior. 
 
 By ignoring improper behavior or withdrawing a reward, you are helping dachshund understand actions you do not want. For example, if the dachshund wants to go for a walk and he or she is running around because he feels excited, ignore it until the dog stops to bring it back. When the dachshund stops and stands still, you bring the reins in and take them for a walk. Do this every time you prepare to take the dog for a walk to let them understand that this is something you don't want. Then your pet will understand that if you run around, you will not be able to walk, but if you stand still, you will be able to walk. [9]
 
-Tiêu đề ảnh ![Take-Care-of-a-Dachshund-Step-10]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-10-Version-2.jpg.webp) 10
+![Take-Care-of-a-Dachshund-Step-10]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-10-Version-2.jpg.webp) 10
 
 ### 2.4 Consider hiring a qualified dog trainer. 
 
@@ -96,20 +96,20 @@ If you're having trouble getting your dachshund to obey commands, you might cons
 
 ## 3. Sanitize dachshunds
 
-Tiêu đề ảnh ![Take-Care-of-a-Dachshund-Step-11]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-11-Version-2.jpg.webp) 11
+![Take-Care-of-a-Dachshund-Step-11]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-11-Version-2.jpg.webp) 11
 
 ### 3.1 Bathe the dachshund dog. 
 
 Use a shampoo specifically designed for dogs to bathe the dachshund. If your dog has short hairs, you should bathe them every three months. For long-haired dogs, you need to bathe more often. Use the spray to moisten the dog's fur, but not around the eyes, ears, and nose. Then apply shampoo on the pet's fur. Rinse off the shampoo and dry with a towel. [11]
 - Praise and reward the dachshunds after bathing so they associate the act of bathing with the good experience.
 
-Tiêu đề ảnh ![Take-Care-of-a-Dachshund-Step-12]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-12-Version-2.jpg.webp) 12
+![Take-Care-of-a-Dachshund-Step-12]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-12-Version-2.jpg.webp) 12
 
 ### 3.2 Groom the dachshund. 
 
 If the dachshund has short hairs, you only need to brush once a week. As with long-haired dogs, you need to brush every day so that the coat is not messed up. Use a thin comb to untangle before using the brush. While grooming, give your dog a great compliment and reward the food after the work is done so that the pet associates brushing with the good. [twelfth]
 
-Tiêu đề ảnh ![Take-Care-of-a-Dachshund-Step-13]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-13-Version-2.jpg.webp) 13
+![Take-Care-of-a-Dachshund-Step-13]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-13-Version-2.jpg.webp) 13
 
 ### 3.3 Cut your dog's nails. 
 
@@ -117,7 +117,7 @@ To trim your dachshund's nails, you will need a special dog clipper that can be 
 - Do not cut too deeply as it may touch the meat cushion. This is a very sensitive area and may bleed.
 - If you are concerned about hurting your dog during a nail clipping, ask your veterinarian for instructions on how to make it, or bring the pet to a hygienist to trim the dog's nails.
 
-Tiêu đề ảnh ![Take-Care-of-a-Dachshund-Step-14]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-14-Version-2.jpg.webp) 14
+![Take-Care-of-a-Dachshund-Step-14]({{ site.url }}/assets/images/blog/dogs/ways-to-take-care-of-dachshunds/v4-728px-Take-Care-of-a-Dachshund-Step-14-Version-2.jpg.webp) 14
 
 ### 3.4 Check out the problem. 
 
