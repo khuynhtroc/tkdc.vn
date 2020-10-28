@@ -5,7 +5,7 @@ summary: After being castrated, the dog needs your care. You just hired someone 
 author: phamhuong
 categories: [ Dogs ]
 tags: dog
-image: assets/images/blog/dogs/how-to-take-care-of-labrador-retriever-dogs/v4-728px-Care-for-a-Labrador-Retriever-Step-1-Version-3.jpg.webp
+image: assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-2.webp
 beforetoc: "After being castrated, the dog needs your care. You just hired someone else to castrate it. It is unaware that this will affect its behavior and lose its fertility. Although the process is very simple, the dog will be very tired and may experience nausea for a few days. There is also a risk of infection early on. However, it still loves you, so take care of it by letting it rest and doing all you can to prevent infection and help the castration heal."
 toc: true
 rating: 5
