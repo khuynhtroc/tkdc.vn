@@ -16,7 +16,7 @@ permalink: /dogs/how-to-take-care-of-a-dog-after-castration.html
 
 ## 1. Help the dog comfortable after surgery
 
-![Care-for-Your-Dog-After-Being-Neutered-Step-1]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-1.jpg)
+![Care-for-Your-Dog-After-Being-Neutered-Step-1]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-1.jpg.webp)
 
 ### 1.1 Let your dog rest. 
 
@@ -24,14 +24,14 @@ As soon as you get home, let your dog rest in a comfortable place in the house. 
 - Be aware that the dog may still be under the influence of the anesthetic the vet injected during surgery. If so, it still cannot fully control the body.
 - Keep it indoors all day and make sure it's as low as possible distractions.
 
-![Care-for-Your-Dog-After-Being-Neutered-Step-2]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-2.jpg)
+![Care-for-Your-Dog-After-Being-Neutered-Step-2]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-2.jpg.webp)
 
 ### 1.2 Feed your dog when the anesthetic is gone. 
 
 Always keep it hydrated, however, do not feed it until the anesthetic wears off. After castration, most dogs will have complete control of their bodies by the end of the day, but many dogs also vomit and eat very little. You should only feed your dog half of the usual amount of food at the first meal and gradually increase the food for the next meal of the day. [3]
 - If your dog still doesn't want to eat after 48 hours, contact your veterinarian.
 
-![Care-for-Your-Dog-After-Being-Neutered-Step-3]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-3.jpg)
+![Care-for-Your-Dog-After-Being-Neutered-Step-3]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-3.jpg.webp)
 
 ### 1.3 Pay attention to danger signs. 
 
@@ -41,7 +41,7 @@ Pay special attention to symptoms such as a lethargic, loss of appetite, vomitin
 
 ## 2. Make sure the castration is healed
 
-![Care-for-Your-Dog-After-Being-Neutered-Step-4]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-4.jpg)
+![Care-for-Your-Dog-After-Being-Neutered-Step-4]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-4.jpg.webp)
 
 ### 2.1 Have your dog wear a protective collar. 
 
@@ -50,7 +50,7 @@ This ring type has a cone shape, which looks like a lampshade. This type of ring
 - Do not remove the collar too soon as your dog is most likely to bite the castration wound due to the itch once it begins to heal. This will happen about 5 to 8 days after surgery. For safety's sake, keep your dog wearing a collar until the castration area has healed.
 - If your veterinarian does not provide collars, you can buy one from a pet store. You can choose between hard or soft rings, soft ones that appear to allow your dog to get food, water from a bowl and toys more easily.
 
-![Care-for-Your-Dog-After-Being-Neutered-Step-5]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-5.jpg)
+![Care-for-Your-Dog-After-Being-Neutered-Step-5]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-5.jpg.webp)
 
 ### 2.2 Check for castration twice a day. 
 
@@ -58,7 +58,7 @@ Every day, you need to check the castration at least twice to make sure it is he
 - If the castration is opened, call your veterinarian immediately. You need to bring your dog to the clinic for stitching.
 - If you notice that the castration is dirty, soak a cotton ball in clean boiled water or salt water and wipe it off.
 
-![Care-for-Your-Dog-After-Being-Neutered-Step-6]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-6.jpg)
+![Care-for-Your-Dog-After-Being-Neutered-Step-6]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-6.jpg.webp)
 
 ### 2.3 Limit your dog's movement for a week. 
 
@@ -68,21 +68,21 @@ You need to keep your dog as active as possible for at least a week. This is ver
 
 ## 3. Slowly return to normal activities
 
-![Care-for-Your-Dog-After-Being-Neutered-Step-7]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-7.jpg)
+![Care-for-Your-Dog-After-Being-Neutered-Step-7]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-7.jpg.webp)
 
 ### 3.1 Do not let your dog run or jump for several weeks. 
 
 For about two weeks after surgery, do not allow the dog to exercise vigorously, jump or even run. Make sure it is fully healed before getting back to normal activity. Follow your veterinarian's specific instructions to see when your puppy is back to normal movement. [9]
 - You can take the dog out in the yard when the castration appears to have healed, but use the leash until you are sure it is completely healed.
 
-![Care-for-Your-Dog-After-Being-Neutered-Step-8]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-8.jpg)
+![Care-for-Your-Dog-After-Being-Neutered-Step-8]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-8.jpg.webp)
 
 ### 3.2 Do not bathe your dog. 
 
 You should stop bathing your dog for about 10 days. Follow your veterinarian's specific instructions about how long it will take for the castration to heal. [10] You may need to wait at least a week before exposing your dog to the water to avoid the risk of infection.
 - If your dog goes to the bathroom and stays in it, or needs a bath for a special reason, use a dry pet store soap. However, be careful not to let the soap come into contact with the castration. [11]
 
-![Care-for-Your-Dog-After-Being-Neutered-Step-9]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-9.jpg)
+![Care-for-Your-Dog-After-Being-Neutered-Step-9]({{ site.url }}/assets/images/blog/dogs/how-to-take-care-of-a-dog-after-castration/v4-728px-Care-for-Your-Dog-After-Being-Neutered-Step-9.jpg.webp)
 
 ### 3.3 Go back to the clinic to remove the threads. 
 

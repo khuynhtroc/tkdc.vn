@@ -181,19 +181,19 @@ This method requires you to imagine something you find extremely relaxing to eas
 The main reason you learn relaxation techniques is to stay calm as you gradually interact with your dog. But before you start letting your dog show up in front of you, you need to make a plan. This plan covers every step you have to go through from this point (without the dog) to the actual arrival of the dog. [25]
 - The plan should be tailored to your unique fear type and the situations you experience. You need to write a list in order from least afraid to most frightening so that you can step by step conquer the most terrifying situation for you.
 - An example of a dreaded dog remediation plan would look like this:
- -Step 1 - draw a picture of a dog on paper.
- -Step 2 - read information about dogs.
- -Step 3 - Look at the pictures of the dogs.
- -Step 4 - watch videos about dogs.
- -Step 5 - look at your dog through a closed window.
- -Step 6 - look at the dog through the partially open window.
- -Step 7 - look at the dog through the open window.
- -Step 8 - Look at the dog through the doorway.
- -Step 9 - Look at the dog from outside the doorway.
- -Step 10 - Look at a dog (with leash) in the next room.
- -Step 11 - look at a dog (with leash) in the same room.
- -Step 12 - sit next to a dog.
- -Step 13 - pet a dog.
+Step 1 - draw a picture of a dog on paper.
+Step 2 - read information about dogs.
+Step 3 - Look at the pictures of the dogs.
+Step 4 - watch videos about dogs.
+Step 5 - look at your dog through a closed window.
+Step 6 - look at the dog through the partially open window.
+Step 7 - look at the dog through the open window.
+Step 8 - Look at the dog through the doorway.
+Step 9 - Look at the dog from outside the doorway.
+Step 10 - Look at a dog (with leash) in the next room.
+Step 11 - look at a dog (with leash) in the same room.
+Step 12 - sit next to a dog.
+Step 13 - pet a dog.
 
 ![Overcome-a-Fear-of-Dogs-Step-18]({{ site.url }}/assets/images/blog/dogs/how-to-overcome-fear-of-dogs/v4-728px-Overcome-a-Fear-of-Dogs-Step-18.jpg.webp)
 
