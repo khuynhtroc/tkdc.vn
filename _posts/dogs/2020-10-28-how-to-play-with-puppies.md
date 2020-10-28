@@ -53,7 +53,7 @@ While play may seem like a recreational activity, in reality it plays an importa
 
 ## 2. Choose a game
 
-![Play-With-Your-Puppy-Step-6]({{ site.url }}/assets/images/blog/dogs/how-to-play-with-puppies/v4-728px-Play-With-Your-Puppy-Step.jpg.webp)
+![Play-With-Your-Puppy-Step-6]({{ site.url }}/assets/images/blog/dogs/how-to-play-with-puppies/v4-728px-Play-With-Your-Puppy-Step-6.jpg.webp)
 
 ### 2.1 Playing tug. 
 
@@ -62,14 +62,14 @@ Use a zipper, and do not use household items such as footwear. If your dog is us
 - Tug of war is beneficial for a shy or anxious puppy. Let them win the game to boost their confidence. [7]
 - Another alternative to tug of war is high jump. You will hold your dog's favorite toy / food high above their head and say “Jump! Jump up! " After the dog has jumped, you must give the item to him to avoid making him angry.
 
-![Play-With-Your-Puppy-Step-7]({{ site.url }}/assets/images/blog/dogs/how-to-play-with-puppies/v4-728px-Play-With-Your-Puppy-Step.jpg.webp)
+![Play-With-Your-Puppy-Step-7]({{ site.url }}/assets/images/blog/dogs/how-to-play-with-puppies/v4-728px-Play-With-Your-Puppy-Step-7.jpg.webp)
 
 ### 2.2 Play hide and seek. 
 
 Ask your puppy to "sit" and "stay." Show the treat in front of the pet and hide it. Call your pet's name while you are hiding. They will scour through until they find you. This game trains the puppy to come close to hearing calls and how to find the owner in hiding and practice his sense of smell.
 - If your dog does not obey the command to "stay" before you go to hiding place, you can use the command "wait." [8]
 
-![Play-With-Your-Puppy-Step-8]({{ site.url }}/assets/images/blog/dogs/how-to-play-with-puppies/v4-728px-Play-With-Your-Puppy-Step.jpg.webp)
+![Play-With-Your-Puppy-Step-8]({{ site.url }}/assets/images/blog/dogs/how-to-play-with-puppies/v4-728px-Play-With-Your-Puppy-Step-8.jpg.webp)
 
 ### 2.3 Play object-picking. 
 
@@ -77,7 +77,7 @@ Hold the ball or toy in front of the puppy and ask to "sit" or "wait". Throw the
 - Throwing games train pets to return objects on command, an important skill to help ensure their safety. Once your dog has a toy you picked up, you can offer a high value reward. Give the command "release" as soon as they release the toy and reward the pet. [9]
 - Do not throw the bat during fetch. The puppy may accidentally touch the stick resulting in serious injury. [ten]
 
-![Play-With-Your-Puppy-Step-9]({{ site.url }}/assets/images/blog/dogs/how-to-play-with-puppies/v4-728px-Play-With-Your-Puppy-Step.jpg.webp)
+![Play-With-Your-Puppy-Step-9]({{ site.url }}/assets/images/blog/dogs/how-to-play-with-puppies/v4-728px-Play-With-Your-Puppy-Step-9.jpg.webp)
 
 ### 2.4 Teach your puppy a few tricks. 
 
