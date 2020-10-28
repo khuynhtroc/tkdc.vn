@@ -5,7 +5,7 @@ summary: When you have a pet, you will have to give them plenty of time, love an
 author: phamhuong
 categories: [ Dogs ]
 tags: dog
-image: assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-2-Version-2.jpg.w
+image: assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-2-Version-2.jpg.webp
 beforetoc: "When you have a pet, you will have to give them plenty of time, love and patience. Pets take a lot of care and responsibility, especially in training or learning to walk the dog. There are many things to consider, from buying the right necklace and leash to making requests and rewarding your dog for doing it well. This will take time, but soon you will know what to do for you and your dog to have a great experience with walking."
 toc: true
 rating: 5
