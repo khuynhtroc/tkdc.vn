@@ -5,7 +5,7 @@ summary: When you have a pet, you will have to give them plenty of time, love an
 author: phamhuong
 categories: [ Dogs ]
 tags: dog
-image: assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-2-Version-2.jpg.webp
+image: assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-2-Version-2.jpg.w
 beforetoc: "When you have a pet, you will have to give them plenty of time, love and patience. Pets take a lot of care and responsibility, especially in training or learning to walk the dog. There are many things to consider, from buying the right necklace and leash to making requests and rewarding your dog for doing it well. This will take time, but soon you will know what to do for you and your dog to have a great experience with walking."
 toc: true
 rating: 5
@@ -16,25 +16,25 @@ permalink: /dogs/how-to-take-a-dog-for-a-walk.html
 
 ## 1. Walking the dog: basic notes
 
-Image titled ![Walk-a-Dog-Step-1]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-1-Version-2.jpg.webp)p 1
+![Walk-a-Dog-Step-1]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-1-Version-2.jpg.webp)
 
 ### 1.1 Wear a collar and leash on your dog. 
 
 There will come a time when your four-legged friend notices the time for a walk when you can just reach for the leash. You should get used to this early by using a collar from a young dog. Put a collar on your dog and say “Go out”, and show the leash at the same time.
 
-Image titled ![Walk-a-Dog-Step-2]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-2-Version-2.jpg.webp)p 2
+![Walk-a-Dog-Step-2]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-2-Version-2.jpg.webp)
 
 ### 1.2 Wear the necklace snugly, but not too tight. 
 
 Make sure not to put a collar too tight on your dog. As a general rule, you should be able to fit a finger or two between the dog's collar and neck. [1] The collar should not be too loose to avoid slipping through the dog's ears when it struggles to escape.
 
-Image titled ![Walk-a-Dog-Step-3]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-3-Version-2.jpg.webp)p 3
+![Walk-a-Dog-Step-3]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-3-Version-2.jpg.webp)
 
 ### 1.3 Decide which side to take the dog on. 
 
 Consistency is important when training a dog for a walk. Choosing a side to lead the dog will help him recognize this activity. Your dog will get used to going for a walk by knowing what will happen. Remember, walking with a leash is not a natural activity for dogs. [2] It may take time to adjust.
 
-Image titled ![Walk-a-Dog-Step-4]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-4-Version-2.jpg.webp)p 4
+![Walk-a-Dog-Step-4]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-4-Version-2.jpg.webp)
 
 ### 1.4 Pull the rope close to the body. 
 
@@ -43,13 +43,13 @@ The most important thing when walking the dog is to maintain control so that the
 - Pull the leash close to the body, but leave enough space for the dog to walk naturally.
 - The dog will feel the tension on the leash and will know that it cannot get ahead of you.
 
-Image titled ![Walk-a-Dog-Step-5]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-5-Version-2.jpg.webp)p 5
+![Walk-a-Dog-Step-5]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-5-Version-2.jpg.webp)
 
 ### 1.5 Talk to your dog. 
 
 Your puppy will understand your voice. Don't lose your temper. Encourage your dog by saying "Well done" or "Well done" every time he gets it right. Use a stern tone when teaching your dog not to do something, such as barking passersby or growling at other dogs.
 
-Image titled ![Walk-a-Dog-Step-6]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-6-Version-2.jpg.webp)p 6
+![Walk-a-Dog-Step-6]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-6-Version-2.jpg.webp)
 
 ### 1.6 Reward your dog with a treat. 
 
@@ -58,13 +58,13 @@ Use treats to teach your dog to walk, especially if you want to teach your dog n
 
 ## 2. Buy suitable equipment for walking the dog
 
-Image titled ![Walk-a-Dog-Step-7]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-7-Version-2.jpg.webp)p 7
+![Walk-a-Dog-Step-7]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-7-Version-2.jpg.webp)
 
 ### 2.1 Talk to your veterinarian before purchasing a walking dog device. 
 
 Your veterinarian knows your dog just as well and can recommend the type of equipment you need. Trust your vet to choose the right collar and leash for your dog breed or a specific weight. They can give you tips on how to avoid neck problems in your dog due to the inappropriate collar. [5]
 
-Image titled ![Walk-a-Dog-Step-8]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-8-Version-2.jpg.webp)p 8
+![Walk-a-Dog-Step-8]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-8-Version-2.jpg.webp)
 
 ### 2.2 Buy collars and leashes that are suitable for your dog. 
 
@@ -75,7 +75,7 @@ There are many types of dog collars and leashes on the market, but not all are s
 - Specialized necklaces include shock necklaces, vibrating necklaces and GPS collars.
 - A necklace that glow in the dark will make it easier for everyone to see you and your dog.
 
-Image titled ![Walk-a-Dog-Step-9]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-9-Version-2.jpg.webp)p 9
+![Walk-a-Dog-Step-9]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-9-Version-2.jpg.webp)
 
 ### 2.3 Consider using a clicker device to train your dog. 
 
@@ -89,13 +89,13 @@ This device is highly regarded for its safety and effectiveness in training dogs
 
 ## 3. Make sure the walk is comfortable
 
-Image titled ![Walk-a-Dog-Step-10]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-10-Version-2.jpg.webp)p 10
+![Walk-a-Dog-Step-10]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-10-Version-2.jpg.webp)
 
 ### 3.1 Know when it's too hot for a dog to walk. 
 
 Temperature will be the deciding factor for the best time to walk the dog. Early morning and late afternoon are good times of the day for you to walk your dog. Avoid going at noon when the sun is already high, as sidewalks can be too hot for your dog's paws. The best way to try to see if something is too hot is to put your hand on the sidewalk. If you have to lift your hand after just 5 seconds it means the place is too hot .. [8]
 
-Image titled ![Walk-a-Dog-Step-11]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-11.jpg.webp)p 11
+![Walk-a-Dog-Step-11]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-11.jpg.webp)
 
 ### 3.2 Bring plenty of water and food. 
 
@@ -107,7 +107,7 @@ In addition to a dog waste bag and clicker, bring a food bowl and a water bottle
 - Carrot
 - Ice blended on hot days
 
-Image titled ![Walk-a-Dog-Step-12]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-12.jpg.webp)p 12
+![Walk-a-Dog-Step-12]({{ site.url }}/assets/images/blog/dogs/how-to-take-a-dog-for-a-walk/v4-728px-Walk-a-Dog-Step-12.jpg.webp)
 
 ### 3.3 Rest as needed and go into a cool, shady place when possible. 
 
