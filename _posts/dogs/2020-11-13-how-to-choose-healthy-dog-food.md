@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "How to Choose Healthy Dog Food?"
+title: "How to choose healthy dog food?"
 summary: You are the one who takes care of your dog and wants the best for your dog. Their health is largely determined by their food. However, there are so many food options, how do you choose the best for your dog. Here are some simple guidelines to help you decide what to feed your dog. While there are no best dog foods, there are certainly nutritionally better varieties.
 author: phamhuong
 categories: [ Dogs ]
