@@ -2,9 +2,9 @@
 layout: post
 title: "How To Take Care Of A Betta Fish?"
 summary: Betta fish also known as fighting fish, thia fish is a popular aquarium fish known for its aggressive nature, likes to interact and especially the player does not cost too much in the process of caring and nurturing them. Betta fish can become your best friend for up to four years. Refer to the following tips to ensure your Betta fish has a healthy, happy and happy life.
-author: phamhuong
+author: phamhuong 
 categories: [ Fishs ]
-tags:fish sticky
+tags: fish sticky
 image: assets/images/blog/fishs/how-to-take-care-of-a-betta-fish/v4-728px-Train-Your-Betta-Fish-Step-9-Version-2.jpg.webp
 beforetoc: "Betta fish also known as fighting fish, thia fish is a popular aquarium fish known for its aggressive nature, likes to interact and especially the player does not cost too much in the process of caring and nurturing them. Betta fish can become your best friend for up to four years. Refer to the following tips to ensure your Betta fish has a healthy, happy and happy life."
 toc: true
