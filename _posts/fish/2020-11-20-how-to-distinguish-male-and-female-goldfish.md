@@ -5,7 +5,7 @@ summary: Aquatic plants are a beauty that adorns your home and offers many benef
 author: phamhuong 
 categories: [ Fishs ]
 tags: fish
-image: assets/images/blog/fishs/how-to-grow-a-plant-in-an-aquarium/v4-728px-Grow-Freshwater-Aquarium-Plants-Step-15-Version-2.jpg.webp
+image: assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-10.jpg.webp
 beforetoc: "Aquatic plants are a beauty that adorns your home and offers many benefits for aquarium fish. The plants grown in the aquarium will remove nitrates from the water, improve water quality and inhibit algae growth. They also help increase the oxygen levels in the tank and provide a comfortable shelter for the fish. [1] Growing plants in an aquarium is a fun and easy hobby that can be enjoyable for you and your fish as well"
 toc: true
 rating: 5
@@ -16,7 +16,7 @@ permalink: /fishs/how-to-distinguish-male-and-female-goldfish.html
 
 ## 1. Get to know the female
 
-Image titled Tell if Your Goldfish Is a Male or Female Step 1
+![Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-1]({{ site.url }}/assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-1-Version-2.jpg.webp)
 
 ### 1.1 Observe the female's plump body. 
 
@@ -24,7 +24,7 @@ Females usually have a round body and thicker than males of the same age and age
 - Females also have a larger spine-to-belly distance, making it easier to determine the sex of the fish when looking at an angle.
 - As the breeding season approaches, eggs will begin to develop in the female's body; This may cause one side of the fish to swell and appear asymmetrical, or one side to sag. [first]
 
-Image titled Tell if Your Goldfish Is a Male or Female Step 2
+![Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-2]({{ site.url }}/assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-2-Version-2.jpg.webp)
 
 ### 1.2 Observe the protrusion point in the female. 
 
@@ -34,7 +34,7 @@ The female goldfish's spot (anus hole) is rounder than the male and is usually s
 
 ## 2. Identify males
 
-Image titled Tell if Your Goldfish Is a Male or Female Step 3
+![Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-3]({{ site.url }}/assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-3-Version-2.jpg.webp)
 
 ### 2.1 Look for nodules. 
 
@@ -43,26 +43,26 @@ One of the hallmarks of a male fish is the development of nodules (small white s
 - Nodules may also appear on the pectoral fins, on the face or on the scales of the fish.
 - Note that while the appearance of nodules is a reliable indicator of whether a goldfish is male, a fish without nodules is not necessarily a female, since it is not a fish. All male fish have nodules. [3]
 
-Image titled Tell if Your Goldfish Is a Male or Female Step 4
+![Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-4]({{ site.url }}/assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-4.jpg.webp)
 
 ### 2.2 Observe the male fish's slimmer and more streamlined body. 
 
 Males are generally longer, thinner and more oblong than females of the same species and age.
 
-Image titled Tell if Your Goldfish Is a Male or Female Step 5
+![Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-5]({{ site.url }}/assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-5.jpg.webp)
 
 ### 2.3 Observe the indentation point in the male. 
 
 The spot of the male goldfish is usually narrow and long like an egg. The male's pit is also concave instead of protruding.
 
-Image titled Tell if Your Goldfish Is a Male or Female Step 6
+![Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-6]({{ site.url }}/assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-6.jpg.webp)
 
 ### 2.4 Find the line between the abdomen. 
 
 
 If you can, look under the belly of the fish for a line in the middle: a floating line, running from the back of the ventral fins to the point. In females this line is very blurred or absent.
 
-Image titled Tell if Your Goldfish Is a Male or Female Step 7
+![Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-7]({{ site.url }}/assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-7.jpg.webp)
 
 ### 2.5 Watch for chasing behavior.
 
@@ -73,7 +73,7 @@ One of the most reliable ways to identify male goldfish is to observe their beha
 
 ## 3. Understand the difficulties
 
-Image titled Tell if Your Goldfish Is a Male or Female Step 8
+![Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-8]({{ site.url }}/assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-8.jpg.webp)
 
 ### 3.1 Know that sex differences will only appear when the goldfish reach adulthood. 
 
@@ -81,7 +81,7 @@ Male and female goldfish will only have distinctly different features as an adul
 - However, the maturity level of goldfish will depend on species and sex. For some fish breeds, males reach adulthood by 9 months of age, while for some females it can take up to 3 years to mature.
 - Without using the method of DNA analysis, sex determination of the young goldfish is practically impossible. If you want to increase your chances of having both males and females, it's best to buy at least 6 healthy fish of the same breed. According to statistics, the probability of having at least one fish of the opposite sex with the rest reaches 98%. [4]
 
-Image titled Tell if Your Goldfish Is a Male or Female Step 9
+![Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-9]({{ site.url }}/assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-9.jpg.webp)
 
 ### 3.2 Know that there is no sure way to sex goldfish other than by observing their reproduction. 
 
@@ -89,11 +89,11 @@ Identifying exactly male or female fish is difficult, even experts sometimes con
 -  Some male goldfish do not develop nodules. On the contrary, in rare cases, females have these nodules. Some females do not have protruding points, but sometimes males do.
 -  Additionally, some varieties of goldfish do not follow this rule - for example, some varieties of goldfish (such as ranchu or ryukin) have a thick, naturally rounded body that makes sex determination by the form of fish is impossible.
 
-Image titled Tell if Your Goldfish Is a Male or Female Step 9Bullet2
+![Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-9Bullet2]({{ site.url }}/assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-9Bullet2.jpg.jpg.webp)
 
 - For the above reasons, it is best to determine the sex of your goldfish by observing multiple signals rather than just relying on one. 
 
-Image titled Tell if Your Goldfish Is a Male or Female Step 10
+![Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-10]({{ site.url }}/assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-10.jpg.webp)
 
 ### 3.3 Understand that these methods are only true for healthy and well-fed goldfish. 
 
