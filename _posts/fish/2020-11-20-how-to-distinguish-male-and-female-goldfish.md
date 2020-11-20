@@ -5,7 +5,7 @@ summary: Aquatic plants are a beauty that adorns your home and offers many benef
 author: phamhuong 
 categories: [ Fishs ]
 tags: fish
-image: assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-10.jpg.webp
+image: assets/images/blog/fishs/how-to-distinguish-male-and-female-goldfish/v4-728px-Tell-if-Your-Goldfish-Is-a-Male-or-Female-Step-1-Version-2.jpg.webp
 beforetoc: "Aquatic plants are a beauty that adorns your home and offers many benefits for aquarium fish. The plants grown in the aquarium will remove nitrates from the water, improve water quality and inhibit algae growth. They also help increase the oxygen levels in the tank and provide a comfortable shelter for the fish. [1] Growing plants in an aquarium is a fun and easy hobby that can be enjoyable for you and your fish as well"
 toc: true
 rating: 5
