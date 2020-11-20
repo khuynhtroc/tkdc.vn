@@ -5,7 +5,7 @@ summary: There are many signs that a betta fish is sick, from a lethargic postur
 author: phamhuong 
 categories: [ Fishs ]
 tags: fish
-image: assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-1-Version-3.jpg.jpg
+image: assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-1-Version-3.jpg.webp
 beforetoc: "There are many signs that a betta fish is sick, from a lethargic posture to white spots on the body. As soon as you suspect a betta fish is sick, you should separate it from other fish, as many diseases can be contagious. Alternatively, you can also find a cure for your betta fish at an aquarium store. If you can't find it in a store, you can buy it online."
 toc: true
 rating: 5
@@ -16,20 +16,20 @@ permalink: /fishs/how-to-recognize-sick-bettas.html
 
 ## 1. Watch for signs that a Betta is not feeling well
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-1]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-1-Version-3.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-1]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-1-Version-3.jpg.webp)
 
 ### 1.1 Observe the fish discoloration. 
 
 When a betta gets sick, the color of the betta may be faded or even completely lost. [3]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-2]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-2-Version-3.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-2]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-2-Version-3.jpg.webp)
 
 ### 1.2 Pay attention to the fish's fins. 
 
 A healthy betta fish's fins will be intact, while the fins of an infected fish may be torn or punctured. [4]
 - Another sign that a betta fish is sick is that the fish's fins appear to be closed in on the body; that is, the fins are not extending as usual. [5]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-3]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-3-Version-2.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-3]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-3-Version-2.jpg.webp)
 
 ### 1.3 Observe the fish's lethargic appearance. 
 
@@ -37,32 +37,32 @@ If the betta is sick, the fish's activity level will decrease and become less ac
 - Another sign is that the fish will be more likely to stay at the bottom of the tank than usual. [7]
 - The lethargy behavior of fish can be caused by the temperature in the water is too low or too high, so make sure the temperature in the water is at the right level.
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-4]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-4-Version-2.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-4]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-4-Version-2.jpg.webp)
 
 ### 1.4 Pay attention to the betta fish's eating habits. 
 
 When infected with certain diseases, fish can completely stop eating. If the betta does not seem to want to eat it, it may be sick. [8]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-5]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-5-Version-2.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-5]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-5-Version-2.jpg.webp)
 
 ### 1.5 Check for spots. 
 
 Look for small, white spots, especially around the fish's head and mouth. This symptom may be a sign of some type of parasite, called ich. [9]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-6]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-6-Version-2.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-6]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-6-Version-2.jpg.webp)
 
 ### 1.6 Detection of respiratory problems in fish. 
 
 It may sound strange to check the fish for breathing problems, however, if the betta is continually rising to the surface to get air, it is an unusual sign. [ten]
 - Bettas also sometimes swim to the surface to breathe, but if this keeps up it is not okay.
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-7]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-7-Version-2.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-7]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-7-Version-2.jpg.webp)
 
 ### 1.7 Observe the fish for scratching or scratching. 
 
 If you see a betta fish rubbing against the side of the tank it may be a sign of a bad thing. Likewise, if a fish tries to rub against plants or other tank objects, it may be sick. [11]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-8]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-8-Version-2.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-8]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-8-Version-2.jpg.webp)
 
 ### 1.8 Look for other physical symptoms. 
 
@@ -72,26 +72,26 @@ Bulging eyes may be a sign of disease. Pay attention to whether the fish's eyes 
 
 ## 2. Treat constipation
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-9]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-9-Version-2.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-9]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-9-Version-2.jpg.webp)
 
 ### 2.1 Check for signs of swelling. 
 
 If the betta suddenly becomes swollen, he may be constipated. You must soon cure the disease for the fish. [15]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-10]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-10-Version-2.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-10]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-10-Version-2.jpg.webp)
 
 ### 2.2 Stop giving the fish normal food for several days. 
 
 The first thing to treat constipation is to stop feeding the fish on its normal diet for a few days. This will give the fish time to digest and eliminate food from the body. [16]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-11]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-11.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-11]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-11.jpg.webp)
 
 ### 2.3 Feed the fish with raw food. 
 
 After a few days, start feeding the fish again. However, you should feed your fish raw food for a while. [17]
 - The live foods that can be fed to the Betta include marine shrimp or bloodworm. The general rule of thumb is to give enough food to allow the fish to eat for two minutes. Feed the fish twice a day. [18]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-12]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-12.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-12]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-12.jpg.webp)
 
 ### 2.4 Do not overfeed the fish. 
 
@@ -99,7 +99,7 @@ Constipation is often a sign that you are overfeeding your betta. So when the fi
 
 ## 3. Diagnosis of fin / tail rot and fungal infection
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-13]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-13.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-13]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-13.jpg.webp)
 
 ### 3.1 Look for torn fins and tail. [20] 
 
@@ -111,7 +111,7 @@ This can affect only the tail or fins, but still make the fish look tattered. [2
 
 You can usually detect this disease with white patches on the body of the fish. The fins may also be sticky or the fish is more sluggish than usual. Although a fungal infection is different from fin rot, the treatment is similar. [23]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-14]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-14.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-14]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-14.jpg.webp)
 
 ### 3.3 Water exchange. 
 
@@ -120,7 +120,7 @@ The first step is to change the aquarium water. Of course, you need to switch th
 - Be sure to rinse the tank several times after cleaning with bleach.
 - For the gravel in the aquarium, you should bake it at 232 degrees C for an hour. Allow to cool before putting back in the tank. [27]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-15]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-15.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-15]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-15.jpg.webp)
 
 ### 3.4 Use medicine. 
 
@@ -128,7 +128,7 @@ You will treat your bettas with tetracycline or ampicillin in the water. The amo
 - You will also need a fungicide. This medication will remove the fungus from the water. [29]
 - If you only have a fungal infection, your betta won't need either tetracycline or ampicillin, but a fungicide. [30]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-16]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-16.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-16]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-16.jpg.webp)
 
 ### 3.5 Repeat the treatment. 
 
@@ -137,14 +137,14 @@ Change the water at least every 3 days. Add more medicine after each water chang
 
 ## 4. Treat velvet
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-17]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-17.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-17]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-17.jpg.webp)
 
 ### 4.1 Shine the flashlight on the fish. 
 
 One way to look at velvet is to shine a light on the fish. Light will help you see a yellow sparkle or a rust color on the scales caused by the disease. Betta fish will also have other symptoms, such as lethargy, loss of appetite, and rubbing against the tank walls or decorations. The fish's fins can also close close to the fish's body. [33]
 - This parasite can be prevented by periodically adding aquarium salt and a water softener to the tank. [34] Mix 1 teaspoon of salt per 10 liters of water. You can add 1 drop of water softener to every 4 liters of water, however, you should read the instructions on the packaging first. Only add salt when changing water, not add medicine when adding water. [35]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-18]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-18.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-18]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-18.jpg.webp)
 
 ### 4.2 Use Bettazing. 
 
@@ -152,7 +152,7 @@ This is the most effective medicine to treat velvet because it contains 2 active
 - You can also use a drug called "Maracide". [37]
 - Continue treatment until the fish no longer shows symptoms.
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-19]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-19.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-19]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-19.jpg.webp)
 
 ### 4.3 Treating the entire aquarium. 
 
@@ -161,30 +161,30 @@ The infected fish should still be quarantined, but you should treat the tank as 
 
 ## 5. Treatment of ich
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-20]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-20.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-20]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-20.jpg.webp)
 
 ### 5.1 Notice that the white spots all over the fish look like salt. Ich is a parasite that causes spots on the body of fish. You also need to look for sticky fins and lethargy. Fish can also stop eating. [39]
 Like velvet, this parasite can be prevented if you treat the water properly. [40] Mix 1 teaspoon of aquarium salt for every 10 liters of water. If you use a water softener, you can add 1 drop for every 4 liters of water, however you should also read the instructions on the packaging first. [41]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-21]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-21.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-21]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-21.jpg.webp)
 
 ### 5.2 Try increasing the water temperature for ich. 
 
 If the tank is large, try increasing the temperature in the water to 29.5 degrees C to kill parasites. However, you can accidentally raise the temperature too high and kill the fish if the tank is small. [42]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-22]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-22.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-22]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-22.jpg.webp)
 
 ### 5.3 Change the water and clean the tank. 
 
 To treat ich, you should change the water. In addition, you should also clean the tank as described in the section on fin / tail rot and fungal infections. [43] In a smaller tank, you can remove the fish from another tank, rinse the tank, and raise the temperature in the water to 29.5 degrees C before you put the fish back in the tank. [44]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-23]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-23.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-23]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-23.jpg.webp)
 
 ### 5.4 Water treatment. 
 
 Be sure to add salt and water softener to the tank before returning the fish. This will prevent the parasite from re-entering and attacking the fish. [45]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-24]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-24.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-24]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-24.jpg.webp)
 
 ### 5.5 Take the drug Aquarisol. 
 
@@ -193,20 +193,20 @@ Add 1 drop of this medication to every 4 liters of water. Should continue to tak
 
 ## 6. Treatment of bulging eyes
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-25]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-25.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-25]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-25.jpg.webp)
 
 ### 6.1 Watch out for bulging eyes in fish. 
 
 The main symptom of this disease is the bulging of the fish's eyes. However, sometimes this is a symptom of another disease. [48]
 - For example, bulging eyes can be a sign of tuberculosis. [49] If you get TB disease, usually the fish won't go away on its own. [50]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-26]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-26.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-26]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-26.jpg.webp)
 
 ### 6.2 Change the water and wash the tank. 
 
 For fisheye, you need to provide clean water to the fish as mentioned in the previous section. In addition, you will also need to clean the tank. [51]
 
-![Tell-if-a-Betta-Fish-Is-Sick-Step-27]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-27.jpg.jpg)
+![Tell-if-a-Betta-Fish-Is-Sick-Step-27]({{ site.url }}/assets/images/blog/fishs/how-to-recognize-sick-bettas/v4-728px-Tell-if-a-Betta-Fish-Is-Sick-Step-27.jpg.webp)
 
 ### 6.3 Use ampicillin. 
 

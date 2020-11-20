@@ -5,7 +5,7 @@ summary: If you have ever visited the aquarium shop, maybe you will see the fish
 author: phamhuong 
 categories: [ Fishs ]
 tags: fish
-image: assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-14.jpg
+image: assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-14.jpg.webp
 beforetoc: "If you have ever visited the aquarium shop, maybe you will see the fish small colorful plastic cup swim in every particular. They are very interesting aquarium fish called Betta splendens , or Siamese fighting fish . Unfortunately, this fish is often transported under unsanitary conditions from indigenous Asian countries. With the added stress, bettas can be susceptible to many dangerous diseases. However, most of these diseases can be cured with prompt treatment and care."
 toc: true
 rating: 5
@@ -16,33 +16,33 @@ permalink: /fishs/how-to-cure-beta-fish.html
 
 ## 1. Recognize the betta fish's diseases
 
-![Cure-Betta-Fish-Diseases-Step-1]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-1-Version-2.jpg)
+![Cure-Betta-Fish-Diseases-Step-1]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-1-Version-2.jpg.webp)
 
 ### 1.1 Notice if the fish's fins look rough or the fish isn't as flexible as usual. 
 
 The fish's color may be paler than usual and have white or cotton-like markings on the body. These are signs of a fungal infection. Fungi can grow in aquariums that are not treated with salt and Aquarisol when water is added to the tank. [first]
 - This fungus can spread rapidly from an infected fish to other fish in the tank, so sick fish need immediate treatment.
 
-![Cure-Betta-Fish-Diseases-Step-2]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-2-Version-2.jpg)
+![Cure-Betta-Fish-Diseases-Step-2]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-2-Version-2.jpg.webp)
 
 ### 1.2 Check the betta's ankle to see if one or both fish eyes are protruding. 
 
 This is a symptom of a bacterial infection called protrusion. Fish can develop bulging eyes from dirty water in the aquarium or from a more serious illness such as tuberculosis. Sadly, fish pulmonary tuberculosis is incurable and kills the bettas. Tuberculosis can cause a fish's spine to curl (not to be confused with the natural "lump" that usually develops in older Betta fish). [2]
 
-![Cure-Betta-Fish-Diseases-Step-3]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-3-Version-2.jpg)
+![Cure-Betta-Fish-Diseases-Step-3]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-3-Version-2.jpg.webp)
 
 ### 1.3 Check to see if the scales are bulging or bulging. 
 
 These are symptoms of edema, an infection of the fish's kidneys. This disease leads to kidney failure and fluid retention or bloating. This usually occurs in weak fish due to poor water conditions or ingestion of contaminated food. [3] [4]
 - Once you have kidney failure due to fluid retention, your fish is in danger of dying. You can prevent edema by not feeding your fish raw worms or contaminated food. A fish salt bath can help drain the fluids, and medicine can help. Since it is difficult to know which medication is suitable, and the edema often deteriorates quickly, it is acceptable to give the fish a smooth death.
 
-![Cure-Betta-Fish-Diseases-Step-4]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-4-Version-2.jpg)
+![Cure-Betta-Fish-Diseases-Step-4]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-4-Version-2.jpg.webp)
 
 ### 1.4 Note if the fish has many spots or white spots that look like salt or sand. 
 
 This is a sign of white spot disease or ich disease. These spots can be slightly lumpy, and fish will often rub themselves against objects in the tank due to irritation and itchiness. Fish can also have breathing problems and often float to the top of the water in the tank. White spot disease attacks stressed fish due to fluctuating water temperatures and fluctuating pH of the water in the aquarium. [5]
 
-![Cure-Betta-Fish-Diseases-Step-5]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-5.jpg)
+![Cure-Betta-Fish-Diseases-Step-5]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-5.jpg.webp)
 
 ### 1.5 Watch for discolouration or discolouration of the tail or fins. 
 
@@ -50,21 +50,21 @@ These are signs of an infection that causes the fins, tail and mouth of the fish
 - Fortunately, most bettas can regrow their fins and tail if treated promptly. However, the tail and fins may not be as splendid again after regrowth.
 - Some bettas can develop advanced body and fin rot if the normal fin rot is not treated for a long time. Your fish may lose fins and meat tissue as the disease progresses. Once the fish's flesh tissue has rotted, it is very difficult to treat advanced fin rot, and basically your fish will be eaten alive.
 
-![Cure-Betta-Fish-Diseases-Step-6]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-6.jpg)
+![Cure-Betta-Fish-Diseases-Step-6]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-6.jpg.webp)
 
 ### 1.6 Look at the betta fish with a flashlight to see if the fish has a yellow or rust color. 
 
 This is a symptom of velvet fungus, a contagious parasite. If the fish has a fungal infection, they will often put their fins close to the body, start to discolor, lose their appetite and may rub themselves against the wall or gravel in the aquarium. [7]
 - Since the velvet fungus is a highly contagious parasite, you should treat all fish in your tank if one fish shows signs of infection.
 
-![Cure-Betta-Fish-Diseases-Step-7]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-7.jpg)
+![Cure-Betta-Fish-Diseases-Step-7]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-7.jpg.webp)
 
 ### 1.7 Check for floating fish on one side or lying still on the bottom of the tank. 
 
 These are signs of bubble disorder, a common condition in bettas. Bubble disorders are often caused by fish overeating, leading to swollen bubbles that cause the fish to float to one side or lie on the bottom of the tank because it cannot swim. [8]
 - Remember that bubble disorders are easy to treat and don't harm your fish, so you don't have to worry about your fish dying from it.
 
-![Cure-Betta-Fish-Diseases-Step-8]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-8.jpg)
+![Cure-Betta-Fish-Diseases-Step-8]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-8.jpg.webp)
 
 ### 1.8 Notice if there are green and white threads on the fish. 
 
@@ -73,14 +73,14 @@ This is a symptom of anchovy, a tiny crustacean that burrows deep into the fish'
 
 ## 2. Treatment of betta fish disease
 
-![Cure-Betta-Fish-Diseases-Step-9]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-9.jpg)
+![Cure-Betta-Fish-Diseases-Step-9]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-9.jpg.webp)
 
 ### 2.1 Isolate infected fish. 
 
 If the infected fish lives with other fish in the tank, use a clean racket to remove the fish and place it in a smaller tank with the necessary filtration system. This will help you treat the water and the tank without harming the fish.
 - You should also check your quarantine to make sure the temperature is right for your bettas, between 25 and 27 degrees Celsius. [11]
 
-![Cure-Betta-Fish-Diseases-Step-10]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-10.jpg)
+![Cure-Betta-Fish-Diseases-Step-10]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-10.jpg.webp)
 
 ### 2.2 Use ich guard to treat white spots. 
 
@@ -89,7 +89,7 @@ You can buy this drug at aquarium stores. You can also treat white spot by incre
 - If you have a small aquarium, clean it thoroughly, change the water completely and treat the water with Aquarisol and salt specially made for the aquarium. You can also transfer the fish to a temporary tank and increase the water temperature to 29.5 degrees C to kill the ich parasites that remain before you re-enter the tank.
 - You can prevent white spot disease from developing by maintaining a constant water temperature and cleaning the tank weekly.
 
-![Cure-Betta-Fish-Diseases-Step-11]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-11.jpg)
+![Cure-Betta-Fish-Diseases-Step-11]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-11.jpg.webp)
 
 ### 2.3 Treat fungus with ampicillin or tetracycline. 
 
@@ -97,14 +97,14 @@ These medications can kill the fungus and prevent the betta fish from getting fu
 - You will need to clean the tank and do a full water change every 3 days, adding the medicine to the tank after each water change to permanently kill the fungus. Once your betta has no longer lost any more tail or fins tissue, you can go back to your usual tank cleaning schedule.
 - You can also use ampicillin to treat bulging eyes in bettas. Clean and change all the aquarium water every 3 days, adding ampicillin to the aquarium after each water change. The bulging eye symptom of the betta fish should go away within a week.
 
-![Cure-Betta-Fish-Diseases-Step-12]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-12.jpg)
+![Cure-Betta-Fish-Diseases-Step-12]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-12.jpg.webp)
 
 ### 2.4 Add BettaZing to the aquarium to destroy all the external parasites. 
 
 If the fish shows any signs of an ectoparasites such as anchor parasites or velvet fungus, you should change at least 70% of the water in the aquarium, then treat the remaining water with BettaZing to kill any remaining exogenous parasites. and their eggs. [14]
 - You can buy BettaZing at an aquarium store.
 
-![Cure-Betta-Fish-Diseases-Step-13]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-13.jpg)
+![Cure-Betta-Fish-Diseases-Step-13]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-13.jpg.webp)
 
 ### 2.5 Avoid overfeeding your bettas to prevent bubble disease. 
 
@@ -113,7 +113,7 @@ Betta fish are not voracious, so you should only feed the fish a small meal a da
 
 ## 3. Prevent betta fish disease
 
-![Cure-Betta-Fish-Diseases-Step-14]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-14.jpg)
+![Cure-Betta-Fish-Diseases-Step-14]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-14.jpg.webp)
 
 ### 3.1 Prepare a first aid kit for the betta fish. 
 
@@ -125,7 +125,7 @@ Betta fish can become infected or infected at some point in your life, so you ne
 - Jungle Fungus Eliminator: This is an antifungal medicine that treats many fungal infections and is very useful for the hobbyist.
 - Maracin 1 and Maracin 2: These drugs come in tablets that are effective for mild infections such as fin and tail rot. However, this drug is not as effective as other drugs in treating more serious infections.
 
-![Cure-Betta-Fish-Diseases-Step-15]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-15.jpg)
+![Cure-Betta-Fish-Diseases-Step-15]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-15.jpg.webp)
 
 ### 3.2 Change 10-15% of the water in the aquarium weekly or every two weeks, depending on the type and level of the aquarium filter. 
 
@@ -135,7 +135,7 @@ This will remove accumulated waste and organic matter that is rotting from the f
 - If your tank does not have a filter, start by cleaning the water and checking for ammonia levels daily. When the test kit shows ammonia, it's time to change the water. [20] You can use an aquarium cover or filter to reduce the number of water changes and protect your fish from infection or disease. [21]
 - Test the water once a day to make sure it is not cloudy, foamy, or has a strange smell. These may be signs of bacterial growth and require a complete water change. [22] This will help prevent the betta fish from getting sick or becoming infected.
 
-![Cure-Betta-Fish-Diseases-Step-16]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-16.jpg)
+![Cure-Betta-Fish-Diseases-Step-16]({{ site.url }}/assets/images/blog/fishs/how-to-cure-beta-fish/v4-728px-Cure-Betta-Fish-Diseases-Step-16.jpg.webp)
 
 ### 3.3 Use aquarium salt to eliminate bacterial infections. 
 
